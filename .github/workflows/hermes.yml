@@ -1,0 +1,33 @@
+name: Hermes
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      SITE_URL: ${{ vars.SITE_URL }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Run Hermes
+        run: node tools/hermes.mjs
+
+      - name: Commit content
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Hermes: update auto posts"
+          file_pattern: "content/auto-posts.js content/review-queue.json content/hermes-report.json content/hermes-report.js site/**"

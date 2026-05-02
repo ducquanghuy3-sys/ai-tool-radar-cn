@@ -1,0 +1,155 @@
+{
+  "tools": [
+    {
+      "slug": "claude-code",
+      "name": "Claude Code",
+      "category": "AI 编程工具",
+      "summary": "适合处理跨文件改造、代码理解、重构和复杂项目任务。",
+      "bestFor": ["已有代码库改造", "多文件任务", "复杂需求拆解", "让 AI 参与规划"],
+      "notFor": ["只想快速补全几行代码", "完全不想看终端的人", "预算极低的高频调用"],
+      "pricingNote": "适合重度用户单独评估套餐和调用成本。",
+      "risk": "需要明确权限边界，避免让 Agent 误改无关文件。",
+      "relatedTags": ["Claude Code", "Agents", "MCP"]
+    },
+    {
+      "slug": "codex",
+      "name": "Codex",
+      "category": "AI 编程工具",
+      "summary": "适合快速修改、验证、生成补丁和配合本地工作流完成工程任务。",
+      "bestFor": ["单点修改", "代码审查", "自动化修复", "生成可验证补丁"],
+      "notFor": ["没有清晰目标的开放探索", "需要大量视觉交互的任务"],
+      "pricingNote": "适合按任务价值评估，而不是只看单次调用成本。",
+      "risk": "需要配合测试和审查，不能只看模型输出。",
+      "relatedTags": ["Codex", "Agents"]
+    },
+    {
+      "slug": "github-copilot",
+      "name": "GitHub Copilot",
+      "category": "AI 编程工具",
+      "summary": "适合编辑器内日常补全、问答和团队中低门槛普及。",
+      "bestFor": ["日常补全", "团队普及", "编辑器内问答", "轻量代码生成"],
+      "notFor": ["复杂自主执行任务", "需要强审计的自动改造"],
+      "pricingNote": "计费政策变化会影响重度用户和团队预算。",
+      "risk": "团队需要确认交互数据和代码隐私边界。",
+      "relatedTags": ["AI 自动化", "成本优化"]
+    },
+    {
+      "slug": "mcp",
+      "name": "MCP",
+      "category": "Agent 工具协议",
+      "summary": "适合把模型接入数据库、文件、业务系统和内部工具。",
+      "bestFor": ["内部工具接入", "Agent 能力扩展", "数据读取", "工作流自动化"],
+      "notFor": ["只需要普通聊天", "没有权限管理能力的团队"],
+      "pricingNote": "本身不是收费产品，但会放大模型调用和维护成本。",
+      "risk": "权限、密钥、数据范围必须先设计清楚。",
+      "relatedTags": ["MCP", "Agents", "AI 自动化"]
+    },
+    {
+      "slug": "cursor",
+      "name": "Cursor",
+      "category": "AI 编程工具",
+      "summary": "适合在编辑器内做 AI 辅助开发，学习成本低，上手快。",
+      "bestFor": ["编辑器内开发", "快速原型", "局部重构", "AI 补全"],
+      "notFor": ["需要独立 Agent 管线", "强命令行自动化团队"],
+      "pricingNote": "适合先按个人效率提升评估，再扩展到团队。",
+      "risk": "复杂任务仍需要明确上下文和人工验收。",
+      "relatedTags": ["AI 自动化", "成本优化"]
+    }
+  ],
+  "tasks": [
+    {
+      "slug": "choose-ai-coding-tool",
+      "title": "我该选 Claude Code、Codex、Cursor 还是 Copilot？",
+      "intent": "选择 AI 编程工具",
+      "summary": "如果你主要在编辑器里写代码，先看 Cursor 和 Copilot；如果你要让 AI 处理跨文件任务，优先看 Claude Code 和 Codex。",
+      "recommendedTools": ["claude-code", "codex", "cursor", "github-copilot"],
+      "decisionRules": [
+        "日常补全优先 Copilot 或 Cursor。",
+        "复杂项目改造优先 Claude Code。",
+        "需要生成补丁和配合验证优先 Codex。",
+        "团队采购必须同时看价格、隐私和权限。"
+      ],
+      "pitfalls": ["不要只按模型榜单选工具", "不要让 Agent 无限制访问仓库", "不要跳过测试和代码审查"]
+    },
+    {
+      "slug": "build-agent-workflow",
+      "title": "如何搭一个能真正工作的 AI Agent 流程？",
+      "intent": "搭建 Agent 工作流",
+      "summary": "先定义任务边界和验收标准，再决定是否接 MCP、数据库、文件系统或外部 API。",
+      "recommendedTools": ["mcp", "claude-code", "codex"],
+      "decisionRules": [
+        "先做半自动，不要一开始追求全自动。",
+        "权限比模型能力更重要。",
+        "每一步都要有日志和可回滚结果。",
+        "能人工审核的流程更容易上线。"
+      ],
+      "pitfalls": ["把聊天机器人误当 Agent", "没有权限边界", "没有失败处理", "没有人工验收"]
+    },
+    {
+      "slug": "control-ai-tool-cost",
+      "title": "如何控制 AI 工具成本？",
+      "intent": "控制 AI 工具预算",
+      "summary": "把任务分成高价值、低价值和批量任务，再决定用高端模型、低价模型还是本地工具。",
+      "recommendedTools": ["github-copilot", "codex", "claude-code"],
+      "decisionRules": [
+        "高价值复杂任务可以用贵模型。",
+        "批量低风险任务要用便宜模型或缓存。",
+        "团队要按任务类型记账，而不是只看月费。",
+        "计费政策变化要及时更新预算。"
+      ],
+      "pitfalls": ["只看订阅价", "不记录调用成本", "所有任务都用最贵模型"]
+    },
+    {
+      "slug": "use-mcp-in-company",
+      "title": "公司内部如何安全接入 MCP？",
+      "intent": "安全接入 MCP",
+      "summary": "MCP 的关键不是接得多，而是把数据、权限、日志和撤销机制设计清楚。",
+      "recommendedTools": ["mcp", "claude-code", "codex"],
+      "decisionRules": [
+        "先接低风险只读工具。",
+        "密钥不能暴露给模型上下文。",
+        "高风险动作必须人工确认。",
+        "每个工具都要有日志。"
+      ],
+      "pitfalls": ["一开始接生产数据库写权限", "没有审计日志", "把权限设计留到最后"]
+    }
+  ],
+  "comparisons": [
+    {
+      "slug": "claude-code-vs-codex",
+      "title": "Claude Code vs Codex：怎么选？",
+      "tools": ["claude-code", "codex"],
+      "summary": "Claude Code 更适合跨文件理解和长任务规划；Codex 更适合生成补丁、验证和本地工程闭环。",
+      "winnerByUseCase": [
+        {"case": "复杂重构", "winner": "Claude Code"},
+        {"case": "单点修复", "winner": "Codex"},
+        {"case": "代码审查", "winner": "Codex"},
+        {"case": "长期项目规划", "winner": "Claude Code"}
+      ]
+    },
+    {
+      "slug": "cursor-vs-copilot",
+      "title": "Cursor vs GitHub Copilot：怎么选？",
+      "tools": ["cursor", "github-copilot"],
+      "summary": "Cursor 更像 AI 原生编辑器，适合个人深度使用；Copilot 更适合团队普及和现有 GitHub 工作流。",
+      "winnerByUseCase": [
+        {"case": "个人快速开发", "winner": "Cursor"},
+        {"case": "团队统一采购", "winner": "GitHub Copilot"},
+        {"case": "编辑器内 AI 问答", "winner": "Cursor"},
+        {"case": "低迁移成本", "winner": "GitHub Copilot"}
+      ]
+    },
+    {
+      "slug": "mcp-vs-skills",
+      "title": "MCP vs Skills：差别是什么？",
+      "tools": ["mcp"],
+      "summary": "MCP 更像工具连接协议，适合把模型接入外部系统；Skills 更像能力封装，适合把重复任务整理成可复用方法。",
+      "winnerByUseCase": [
+        {"case": "接数据库和 API", "winner": "MCP"},
+        {"case": "沉淀操作流程", "winner": "Skills"},
+        {"case": "团队工具平台", "winner": "MCP"},
+        {"case": "个人效率模板", "winner": "Skills"}
+      ]
+    }
+  ]
+}

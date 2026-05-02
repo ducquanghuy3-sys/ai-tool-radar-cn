@@ -1,0 +1,11 @@
+{
+  "name": "ai-tool-radar-cn",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node tools/hermes.mjs",
+    "hermes": "node tools/hermes.mjs",
+    "site": "node tools/build-site.mjs"
+  }
+}

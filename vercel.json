@@ -1,0 +1,5 @@
+{
+  "buildCommand": "node tools/hermes.mjs",
+  "outputDirectory": "site",
+  "installCommand": ""
+}

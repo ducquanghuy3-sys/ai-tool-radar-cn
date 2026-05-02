@@ -1,0 +1,52 @@
+[
+  {
+    "name": "OpenAI Product",
+    "url": "https://openai.com/news/product-releases/",
+    "kind": "official",
+    "mode": "auto",
+    "weight": 90,
+    "allowUrlIncludes": ["openai.com/index/"],
+    "includeKeywords": ["Codex", "agent", "agents", "ChatGPT", "model", "SDK", "workspace", "pricing"],
+    "defaultTag": "Agents"
+  },
+  {
+    "name": "Anthropic News",
+    "url": "https://www.anthropic.com/news",
+    "kind": "official",
+    "mode": "auto",
+    "weight": 90,
+    "allowUrlIncludes": ["anthropic.com/news/"],
+    "includeKeywords": ["Claude", "Claude Code", "MCP", "connector", "model", "Opus", "Sonnet", "agent"],
+    "defaultTag": "Claude Code"
+  },
+  {
+    "name": "GitHub Blog",
+    "url": "https://github.blog/",
+    "kind": "official",
+    "mode": "auto",
+    "weight": 82,
+    "allowUrlIncludes": ["github.blog/"],
+    "includeKeywords": ["Copilot", "agent", "agents", "billing", "Actions", "developer", "CLI"],
+    "defaultTag": "AI 自动化"
+  },
+  {
+    "name": "Google AI",
+    "url": "https://blog.google/innovation-and-ai/",
+    "kind": "official",
+    "mode": "review",
+    "weight": 72,
+    "allowUrlIncludes": ["blog.google/"],
+    "includeKeywords": ["Gemini", "AI", "Workspace", "NotebookLM", "DeepMind", "developer"],
+    "defaultTag": "模型发布"
+  },
+  {
+    "name": "Hacker News",
+    "url": "https://news.ycombinator.com/",
+    "kind": "discussion",
+    "mode": "review",
+    "weight": 62,
+    "allowUrlIncludes": ["news.ycombinator.com/item"],
+    "includeKeywords": ["AI", "Claude", "OpenAI", "agent", "MCP", "LLM", "Copilot", "Codex"],
+    "defaultTag": "Agents"
+  }
+]
