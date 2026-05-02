@@ -1,6 +1,6 @@
 # AI 工具雷达
 
-中文 AI 工具决策引擎：每日情报、工具档案、任务指南、对比页面和自动周报。
+中文 AI 工具每日读物：追踪更新、价格、风险和适用场景，帮助判断该不该使用或更换工具。
 
 ## 重点页面
 - https://ducquanghuy3-sys.github.io/ai-tool-radar-cn/tools/
