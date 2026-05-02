@@ -3,10 +3,10 @@
 中文 AI 工具决策引擎：每日情报、工具档案、任务指南、对比页面和自动周报。
 
 ## 重点页面
-- https://example.com/tools/
-- https://example.com/tasks/
-- https://example.com/compare/
-- https://example.com/weekly/latest/
+- https://ducquanghuy3-sys.github.io/ai-tool-radar-cn/tools/
+- https://ducquanghuy3-sys.github.io/ai-tool-radar-cn/tasks/
+- https://ducquanghuy3-sys.github.io/ai-tool-radar-cn/compare/
+- https://ducquanghuy3-sys.github.io/ai-tool-radar-cn/weekly/latest/
 
 ## 内容说明
 Hermes 每天抓取一手来源，生成中文标题、中文摘要、工具判断和原文链接。

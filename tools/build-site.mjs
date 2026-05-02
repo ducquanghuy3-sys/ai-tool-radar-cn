@@ -1,4 +1,4 @@
-import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
+﻿import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 
@@ -6,6 +6,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, "..");
 const siteDir = path.join(root, "site");
 const baseUrl = process.env.SITE_URL || "https://example.com";
+const basePath = new URL(baseUrl).pathname.replace(/\/$/, "");
 const siteName = "AI 工具雷达";
 const siteDescription = "中文 AI 工具决策引擎：每日情报、工具档案、任务指南、对比页面和自动周报。";
 
@@ -71,14 +72,14 @@ function pageShell({ title, description, canonical, content, jsonLd }) {
 <body>
   <div class="wrap">
     <header>
-      <a class="brand" href="/">${siteName}<span class="tagline">帮中文用户判断该用什么 AI 工具</span></a>
+      <a class="brand" href="${siteHref("/")}">${siteName}<span class="tagline">帮中文用户判断该用什么 AI 工具</span></a>
       <nav>
-        <a href="/">首页</a>
-        <a href="/tools/">工具</a>
-        <a href="/tasks/">任务</a>
-        <a href="/compare/">对比</a>
-        <a href="/weekly/">周报</a>
-        <a href="/tags/">标签</a>
+        <a href="${siteHref("/")}">首页</a>
+        <a href="${siteHref("/tools/")}">工具</a>
+        <a href="${siteHref("/tasks/")}">任务</a>
+        <a href="${siteHref("/compare/")}">对比</a>
+        <a href="${siteHref("/weekly/")}">周报</a>
+        <a href="${siteHref("/tags/")}">标签</a>
       </nav>
     </header>
     ${content}
@@ -89,11 +90,17 @@ function pageShell({ title, description, canonical, content, jsonLd }) {
 }
 
 function card(title, href, text, extra = "") {
-  return `<a class="card" href="${href}"><h3>${esc(title)}</h3><p>${esc(text)}</p>${extra}</a>`;
+  const target = href.startsWith("/") ? siteHref(href) : href;
+  return `<a class="card" href="${target}"><h3>${esc(title)}</h3><p>${esc(text)}</p>${extra}</a>`;
 }
 
 function postSlug(post) {
   return `${slugify(post.title)}-${post.id.replace(/^auto-/, "").slice(0, 18)}`;
+}
+
+function siteHref(value) {
+  const clean = value.startsWith("/") ? value : `/${value}`;
+  return `${basePath}${clean}` || clean;
 }
 
 function makePostPage(post) {
