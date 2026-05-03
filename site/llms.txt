@@ -3,10 +3,10 @@
 中文 AI 工具每日读物：追踪更新、价格、风险和适用场景，帮助判断该不该使用或更换工具。
 
 ## 重点页面
-- https://ducquanghuy3-sys.github.io/ai-tool-radar-cn/tools/
-- https://ducquanghuy3-sys.github.io/ai-tool-radar-cn/tasks/
-- https://ducquanghuy3-sys.github.io/ai-tool-radar-cn/compare/
-- https://ducquanghuy3-sys.github.io/ai-tool-radar-cn/weekly/latest/
+- https://example.com/tools/
+- https://example.com/tasks/
+- https://example.com/compare/
+- https://example.com/weekly/latest/
 
 ## 内容说明
 Hermes 每天抓取一手来源，生成中文标题、中文摘要、工具判断和原文链接。

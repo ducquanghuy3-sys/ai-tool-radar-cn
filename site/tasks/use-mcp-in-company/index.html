@@ -5,12 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>公司内部如何安全接入 MCP？｜AI 工具雷达</title>
   <meta name="description" content="MCP 的关键不是接得多，而是把数据、权限、日志和撤销机制设计清楚。">
-  <link rel="canonical" href="https://ducquanghuy3-sys.github.io/ai-tool-radar-cn/tasks/use-mcp-in-company/">
-  <link rel="alternate" type="application/rss+xml" title="AI 工具雷达 RSS" href="https://ducquanghuy3-sys.github.io/ai-tool-radar-cn/rss.xml">
+  <link rel="canonical" href="https://example.com/tasks/use-mcp-in-company/">
+  <link rel="alternate" type="application/rss+xml" title="AI 工具雷达 RSS" href="https://example.com/rss.xml">
   <meta property="og:title" content="公司内部如何安全接入 MCP？">
   <meta property="og:description" content="MCP 的关键不是接得多，而是把数据、权限、日志和撤销机制设计清楚。">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://ducquanghuy3-sys.github.io/ai-tool-radar-cn/tasks/use-mcp-in-company/">
+  <meta property="og:url" content="https://example.com/tasks/use-mcp-in-company/">
   <style>
     :root{--bg:#f6f4ea;--panel:#fffdf6;--ink:#191914;--muted:#706c61;--soft:#ebe5d4;--line:#d4ceb9;--accent:#a83e32;--green:#3e6f55;--wash:#eee7d2}
     *{box-sizing:border-box}
@@ -69,21 +69,21 @@
 <body>
   <div class="wrap">
     <header>
-      <a class="brand" href="/ai-tool-radar-cn/">AI 工具雷达<span class="tagline">帮中文用户判断该用什么 AI 工具</span></a>
+      <a class="brand" href="/">AI 工具雷达<span class="tagline">帮中文用户判断该用什么 AI 工具</span></a>
       <nav>
-        <a href="/ai-tool-radar-cn/">首页</a>
-        <a href="/ai-tool-radar-cn/tools/">工具</a>
-        <a href="/ai-tool-radar-cn/tasks/">任务</a>
-        <a href="/ai-tool-radar-cn/compare/">对比</a>
-        <a href="/ai-tool-radar-cn/weekly/">周报</a>
-        <a href="/ai-tool-radar-cn/tags/">标签</a>
+        <a href="/">首页</a>
+        <a href="/tools/">工具</a>
+        <a href="/tasks/">任务</a>
+        <a href="/compare/">对比</a>
+        <a href="/weekly/">周报</a>
+        <a href="/tags/">标签</a>
       </nav>
     </header>
     <main>
     <h1>公司内部如何安全接入 MCP？</h1>
     <p>MCP 的关键不是接得多，而是把数据、权限、日志和撤销机制设计清楚。</p>
     <h2>推荐工具</h2>
-    <div class="grid"><a class="card" href="/ai-tool-radar-cn/tools/mcp/"><h3>MCP</h3><p>适合把模型接入数据库、文件、业务系统和内部工具。</p></a><a class="card" href="/ai-tool-radar-cn/tools/claude-code/"><h3>Claude Code</h3><p>适合处理跨文件改造、代码理解、重构和复杂项目任务。</p></a><a class="card" href="/ai-tool-radar-cn/tools/codex/"><h3>Codex</h3><p>适合快速修改、验证、生成补丁和配合本地工作流完成工程任务。</p></a></div>
+    <div class="grid"><a class="card" href="/tools/mcp/"><h3>MCP</h3><p>适合把模型接入数据库、文件、业务系统和内部工具。</p></a><a class="card" href="/tools/claude-code/"><h3>Claude Code</h3><p>适合处理跨文件改造、代码理解、重构和复杂项目任务。</p></a><a class="card" href="/tools/codex/"><h3>Codex</h3><p>适合快速修改、验证、生成补丁和配合本地工作流完成工程任务。</p></a></div>
     <h2>决策规则</h2><ul><li>先接低风险只读工具。</li><li>密钥不能暴露给模型上下文。</li><li>高风险动作必须人工确认。</li><li>每个工具都要有日志。</li></ul>
     <h2>常见坑</h2><ul><li>一开始接生产数据库写权限</li><li>没有审计日志</li><li>把权限设计留到最后</li></ul>
   </main>

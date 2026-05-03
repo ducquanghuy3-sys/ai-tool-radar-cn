@@ -1,9 +1,9 @@
 {
   "agent": "Hermes",
-  "ranAt": "2026-05-02T03:50:44.711Z",
+  "ranAt": "2026-05-03T04:42:26.043Z",
   "status": "ok",
   "publishedCount": 6,
-  "reviewCount": 9,
+  "reviewCount": 8,
   "publishedTitles": [
     "Copilot 云端 Agent 启动提速 20%，可用自定义 Actions 镜像",
     "GitHub Copilot CLI 入门：交互模式和非交互模式怎么选",
@@ -20,8 +20,7 @@
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "Hacker News 抓取失败"
+    "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程"
   ],
   "stages": [
     "抓取来源",
