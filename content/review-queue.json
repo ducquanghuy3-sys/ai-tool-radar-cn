@@ -24,6 +24,18 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
+    "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+    "source": "Google AI",
+    "sourceUrl": "https://blog.google/innovation-and-ai/",
+    "score": 120,
+    "defaultTag": "模型发布",
+    "tag": "模型发布",
+    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
     "title": "We're announcing the first West Memphis Energy Impact Fund recipients.",
     "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/west-memphis-energy-impact-fund-recipients/",
     "source": "Google AI",
@@ -48,32 +60,8 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-    "source": "Google AI",
-    "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 104,
-    "defaultTag": "模型发布",
-    "tag": "模型发布",
-    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
     "title": "You can now easily generate files in Gemini.",
     "url": "https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/",
-    "source": "Google AI",
-    "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 104,
-    "defaultTag": "模型发布",
-    "tag": "模型发布",
-    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
-    "title": "Find out what’s new in the Gemini app in April's Gemini Drop.",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-drop-april-2026/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 104,
@@ -92,6 +80,18 @@
     "defaultTag": "模型发布",
     "tag": "模型发布",
     "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
+    "title": "Facebook",
+    "url": "https://www.facebook.com/sharer/sharer.php?caption=Innovation%20%26%20AI&u=https://blog.google/innovation-and-ai/",
+    "source": "Google AI",
+    "sourceUrl": "https://blog.google/innovation-and-ai/",
+    "score": 88,
+    "defaultTag": "模型发布",
+    "tag": "模型发布",
+    "chineseTitle": "facebook.com 发布 AI 工具更新，适合判断是否纳入日常流程",
     "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
     "reason": "需要人工判断是否适合中文读者"
   }
