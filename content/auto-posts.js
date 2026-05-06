@@ -1,30 +1,5 @@
 window.AUTO_POSTS = [
   {
-    "id": "auto-github-blog-copilot-cloud-agent-starts-20-faster-with-actions-custom-images",
-    "title": "Copilot 云端 Agent 启动提速 20%，可用自定义 Actions 镜像",
-    "originalTitle": "Copilot cloud agent starts 20% faster with Actions custom images",
-    "url": "https://github.blog/changelog/2026-04-27-copilot-cloud-agent-starts-20-faster-with-actions-custom-images",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 158,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这说明 Copilot Agent 正在往更稳定的云端执行环境走。对团队来说，启动速度和运行环境可控性都会影响真实使用体验。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Copilot cloud agent starts 20% faster with Actions custom images。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
     "id": "auto-github-blog-github-copilot-cli-for-beginners-interactive-v-non-interactive-mode",
     "title": "GitHub Copilot CLI 入门：交互模式和非交互模式怎么选",
     "originalTitle": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
@@ -71,6 +46,31 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：GitHub Copilot is moving to usage-based billing。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-anthropic-com-agents-for-financial-services",
+    "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
+    "originalTitle": "Agents for financial services",
+    "url": "https://www.anthropic.com/news/finance-agents",
+    "source": "anthropic.com",
+    "tag": "Claude Code",
+    "type": "自动发布",
+    "score": 134,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
+    "audience": [
+      "开发者",
+      "研发团队负责人",
+      "AI 编程工具用户"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Agents for financial services。来源：Anthropic News。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
@@ -146,6 +146,31 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Updates to GitHub Copilot interaction data usage policy。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
+    "url": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Continuous AI for accessibility: How GitHub transforms feedback into inclusion。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }

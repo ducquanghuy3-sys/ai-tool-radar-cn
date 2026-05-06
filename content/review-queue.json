@@ -24,8 +24,8 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+    "title": "Gemini API File Search is now multimodal: build efficient, verifiable RAG",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 120,
@@ -36,11 +36,11 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "We're announcing the first West Memphis Energy Impact Fund recipients.",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/west-memphis-energy-impact-fund-recipients/",
+    "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 106,
+    "score": 120,
     "defaultTag": "模型发布",
     "tag": "模型发布",
     "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
@@ -60,8 +60,8 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "You can now easily generate files in Gemini.",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/",
+    "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 104,
@@ -93,6 +93,18 @@
     "tag": "模型发布",
     "chineseTitle": "facebook.com 发布 AI 工具更新，适合判断是否纳入日常流程",
     "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
+    "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
+    "url": "https://news.ycombinator.com/item?id=48023496",
+    "source": "Hacker News",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "score": 112,
+    "defaultTag": "Agents",
+    "tag": "AI 自动化",
+    "chineseTitle": "news.ycombinator.com 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
     "reason": "需要人工判断是否适合中文读者"
   }
 ]
