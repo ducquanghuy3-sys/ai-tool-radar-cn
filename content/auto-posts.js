@@ -50,6 +50,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-enterprise-managed-plugins-in-github-copilot-cli-are-now-in-public-preview",
+    "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
+    "originalTitle": "Enterprise-managed plugins in GitHub Copilot CLI are now in public preview",
+    "url": "https://github.blog/changelog/2026-05-06-enterprise-managed-plugins-in-github-copilot-cli-are-now-in-public-preview",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 142,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "命令行 Agent 的价值不只在补全命令，而在能否进入脚本、排错和自动化流程。这篇适合做入门判断。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Enterprise-managed plugins in GitHub Copilot CLI are now in public preview。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-anthropic-com-agents-for-financial-services",
     "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "originalTitle": "Agents for financial services",
@@ -100,6 +125,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-validating-agentic-behavior-when-correct-isn-t-deterministic",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Validating agentic behavior when “correct” isn’t deterministic",
+    "url": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Validating agentic behavior when “correct” isn’t deterministic。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-changes-to-github-copilot-individual-plans",
     "title": "GitHub 调整 Copilot 个人计划，使用限制需要重新关注",
     "originalTitle": "Changes to GitHub Copilot Individual plans",
@@ -121,56 +171,6 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Changes to GitHub Copilot Individual plans。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-updates-to-github-copilot-interaction-data-usage-policy",
-    "title": "GitHub 更新 Copilot 交互数据使用政策，团队要重新确认数据边界",
-    "originalTitle": "Updates to GitHub Copilot interaction data usage policy",
-    "url": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这关系到工具会如何使用交互数据。团队采用 Copilot 前，需要重新确认数据边界和内部合规要求。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Updates to GitHub Copilot interaction data usage policy。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
-    "url": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Continuous AI for accessibility: How GitHub transforms feedback into inclusion。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
