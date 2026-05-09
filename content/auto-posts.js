@@ -25,31 +25,6 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-github-copilot-cli-for-beginners-interactive-v-non-interactive-mode",
-    "title": "GitHub Copilot CLI 入门：交互模式和非交互模式怎么选",
-    "originalTitle": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 142,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "命令行 Agent 的价值不只在补全命令，而在能否进入脚本、排错和自动化流程。这篇适合做入门判断。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
     "id": "auto-github-blog-github-copilot-is-moving-to-usage-based-billing",
     "title": "GitHub Copilot 改成按用量计费，重度用户要重新算账",
     "originalTitle": "GitHub Copilot is moving to usage-based billing",
@@ -75,18 +50,18 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-rubber-duck-in-github-copilot-cli-now-supports-more-models",
-    "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
-    "originalTitle": "Rubber Duck in GitHub Copilot CLI now supports more models",
-    "url": "https://github.blog/changelog/2026-05-07-rubber-duck-in-github-copilot-cli-now-supports-more-models",
+    "id": "auto-github-blog-more-flexible-secrets-and-variables-for-copilot-cloud-agent",
+    "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
+    "originalTitle": "More flexible secrets and variables for Copilot cloud agent",
+    "url": "https://github.blog/changelog/2026-05-08-more-flexible-secrets-and-variables-for-copilot-cloud-agent",
     "source": "github.blog",
-    "tag": "模型发布",
+    "tag": "AI 自动化",
     "type": "自动发布",
     "score": 142,
     "comments": 0,
     "hoursAgo": 0,
     "editor": "自动中文编辑",
-    "summary": "命令行 Agent 的价值不只在补全命令，而在能否进入脚本、排错和自动化流程。这篇适合做入门判断。",
+    "summary": "这说明 Copilot Agent 正在往更稳定的云端执行环境走。对团队来说，启动速度和运行环境可控性都会影响真实使用体验。",
     "audience": [
       "AI 工具重度用户",
       "团队流程负责人",
@@ -95,7 +70,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Rubber Duck in GitHub Copilot CLI now supports more models。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：More flexible secrets and variables for Copilot cloud agent。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
@@ -171,6 +146,31 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Agent pull requests are everywhere. Here&#8217;s how to review them.。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-validating-agentic-behavior-when-correct-isn-t-deterministic",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Validating agentic behavior when “correct” isn’t deterministic",
+    "url": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Validating agentic behavior when “correct” isn’t deterministic。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
