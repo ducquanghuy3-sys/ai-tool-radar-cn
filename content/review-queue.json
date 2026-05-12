@@ -24,11 +24,11 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+    "title": "Gemini Embedding 2 is now generally available.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2-generally-available/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 120,
+    "score": 104,
     "defaultTag": "模型发布",
     "tag": "模型发布",
     "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
@@ -36,8 +36,8 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Gemini Embedding 2 is now generally available.",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2-generally-available/",
+    "title": "Digitize your paper notes with Gemini.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/digitize-notes-gemini-study-guide/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 104,
