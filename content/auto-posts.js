@@ -1,5 +1,30 @@
 window.AUTO_POSTS = [
   {
+    "id": "auto-github-blog-dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copi",
+    "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
+    "originalTitle": "Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI",
+    "url": "https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 142,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "命令行 Agent 的价值不只在补全命令，而在能否进入脚本、排错和自动化流程。这篇适合做入门判断。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-improving-token-efficiency-in-github-agentic-workflows",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "originalTitle": "Improving token efficiency in GitHub Agentic Workflows",
@@ -100,6 +125,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan",
+    "url": "https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这会影响个人用户的使用额度和升级判断。重度用户需要重新看限制、价格和替代方案。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-agent-pull-requests-are-everywhere-here-8217-s-how-to-review-them-",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "originalTitle": "Agent pull requests are everywhere. Here&#8217;s how to review them.",
@@ -121,56 +171,6 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Agent pull requests are everywhere. Here&#8217;s how to review them.。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-validating-agentic-behavior-when-correct-isn-t-deterministic",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Validating agentic behavior when “correct” isn’t deterministic",
-    "url": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Validating agentic behavior when “correct” isn’t deterministic。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-changes-to-github-copilot-individual-plans",
-    "title": "GitHub 调整 Copilot 个人计划，使用限制需要重新关注",
-    "originalTitle": "Changes to GitHub Copilot Individual plans",
-    "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这会影响个人用户的使用额度和升级判断。重度用户需要重新看限制、价格和替代方案。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Changes to GitHub Copilot Individual plans。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
