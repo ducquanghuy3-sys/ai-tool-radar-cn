@@ -1,5 +1,30 @@
 window.AUTO_POSTS = [
   {
+    "id": "auto-github-blog-building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-proc",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Building a general-purpose accessibility agent—and what we learned in the process",
+    "url": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 142,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Building a general-purpose accessibility agent—and what we learned in the process。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copi",
     "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
     "originalTitle": "Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI",
@@ -46,31 +71,6 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：GitHub Copilot is moving to usage-based billing。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-copilot-cloud-agent-supports-auto-model-selection",
-    "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
-    "originalTitle": "Copilot cloud agent supports auto model selection",
-    "url": "https://github.blog/changelog/2026-05-14-copilot-cloud-agent-supports-auto-model-selection",
-    "source": "github.blog",
-    "tag": "模型发布",
-    "type": "自动发布",
-    "score": 142,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这说明 Copilot Agent 正在往更稳定的云端执行环境走。对团队来说，启动速度和运行环境可控性都会影响真实使用体验。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Copilot cloud agent supports auto model selection。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
