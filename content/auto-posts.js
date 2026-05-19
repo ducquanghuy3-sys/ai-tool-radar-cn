@@ -1,5 +1,30 @@
 window.AUTO_POSTS = [
   {
+    "id": "auto-github-blog-one-click-fixes-for-failing-actions-with-copilot-cloud-agent",
+    "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
+    "originalTitle": "One-click fixes for failing Actions with Copilot cloud agent",
+    "url": "https://github.blog/changelog/2026-05-18-one-click-fixes-for-failing-actions-with-copilot-cloud-agent",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 174,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这说明 Copilot Agent 正在往更稳定的云端执行环境走。对团队来说，启动速度和运行环境可控性都会影响真实使用体验。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：One-click fixes for failing Actions with Copilot cloud agent。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-proc",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "originalTitle": "Building a general-purpose accessibility agent—and what we learned in the process",
@@ -25,31 +50,6 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copi",
-    "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
-    "originalTitle": "Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI",
-    "url": "https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 142,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "命令行 Agent 的价值不只在补全命令，而在能否进入脚本、排错和自动化流程。这篇适合做入门判断。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
     "id": "auto-github-blog-github-copilot-is-moving-to-usage-based-billing",
     "title": "GitHub Copilot 改成按用量计费，重度用户要重新算账",
     "originalTitle": "GitHub Copilot is moving to usage-based billing",
@@ -71,6 +71,56 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：GitHub Copilot is moving to usage-based billing。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-copilot-cloud-agent-fast-cost-efficient-models-for-simple-tasks",
+    "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
+    "originalTitle": "Copilot cloud agent: Fast, cost-efficient models for simple tasks",
+    "url": "https://github.blog/changelog/2026-05-18-copilot-cloud-agent-fast-cost-efficient-models-for-simple-tasks",
+    "source": "github.blog",
+    "tag": "模型发布",
+    "type": "自动发布",
+    "score": 142,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这说明 Copilot Agent 正在往更稳定的云端执行环境走。对团队来说，启动速度和运行环境可控性都会影响真实使用体验。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Copilot cloud agent: Fast, cost-efficient models for simple tasks。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-audit-repository-copilot-cloud-agent-configuration-via-the-rest-api",
+    "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
+    "originalTitle": "Audit repository Copilot cloud agent configuration via the REST API",
+    "url": "https://github.blog/changelog/2026-05-18-audit-repository-copilot-cloud-agent-configuration-via-the-rest-api",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 142,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这说明 Copilot Agent 正在往更稳定的云端执行环境走。对团队来说，启动速度和运行环境可控性都会影响真实使用体验。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Audit repository Copilot cloud agent configuration via the REST API。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
@@ -146,56 +196,6 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Claude for Creative Work。来源：Anthropic News。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan",
-    "url": "https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这会影响个人用户的使用额度和升级判断。重度用户需要重新看限制、价格和替代方案。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-changes-to-github-copilot-individual-plans",
-    "title": "GitHub 调整 Copilot 个人计划，使用限制需要重新关注",
-    "originalTitle": "Changes to GitHub Copilot Individual plans",
-    "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这会影响个人用户的使用额度和升级判断。重度用户需要重新看限制、价格和替代方案。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Changes to GitHub Copilot Individual plans。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
