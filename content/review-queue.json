@@ -1,7 +1,19 @@
 [
   {
-    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks.",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/accelerator-ai-for-the-planet/",
+    "title": "Introducing Managed Agents in the Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/",
+    "source": "Google AI",
+    "sourceUrl": "https://blog.google/innovation-and-ai/",
+    "score": 138,
+    "defaultTag": "模型发布",
+    "tag": "模型发布",
+    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
+    "title": "Running Guide agent: A step towards running unbounded",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/running-guide-agent/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 122,
@@ -12,23 +24,11 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+    "title": "Introducing Gemini Omni",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 122,
-    "defaultTag": "模型发布",
-    "tag": "AI 自动化",
-    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
-    "title": "Gemini API File Search is now multimodal: build efficient, verifiable RAG",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-    "source": "Google AI",
-    "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 120,
     "defaultTag": "模型发布",
     "tag": "模型发布",
     "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
@@ -36,8 +36,32 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Digitize your paper notes with Gemini.",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/digitize-notes-gemini-study-guide/",
+    "title": "I/O 2026: Welcome to the agentic Gemini era",
+    "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+    "source": "Google AI",
+    "sourceUrl": "https://blog.google/innovation-and-ai/",
+    "score": 122,
+    "defaultTag": "模型发布",
+    "tag": "模型发布",
+    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
+    "title": "The Gemini app becomes more agentic, delivering proactive, 24/7 help",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/",
+    "source": "Google AI",
+    "sourceUrl": "https://blog.google/innovation-and-ai/",
+    "score": 122,
+    "defaultTag": "模型发布",
+    "tag": "模型发布",
+    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
+    "title": "Simulate real-world places with Project Genie and Street View",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 104,
@@ -48,8 +72,8 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+    "title": "Bring any idea to life: Google AI Studio at I/O 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 104,
@@ -68,30 +92,6 @@
     "defaultTag": "模型发布",
     "tag": "模型发布",
     "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
-    "title": "Facebook",
-    "url": "https://www.facebook.com/sharer/sharer.php?caption=Innovation%20%26%20AI&u=https://blog.google/innovation-and-ai/",
-    "source": "Google AI",
-    "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 88,
-    "defaultTag": "模型发布",
-    "tag": "模型发布",
-    "chineseTitle": "facebook.com 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
-    "title": "LinkedIn",
-    "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://blog.google/innovation-and-ai/&title=Innovation%20%26%20AI",
-    "source": "Google AI",
-    "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 88,
-    "defaultTag": "模型发布",
-    "tag": "模型发布",
-    "chineseTitle": "linkedin.com 发布 AI 工具更新，适合判断是否纳入日常流程",
     "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
     "reason": "需要人工判断是否适合中文读者"
   }
