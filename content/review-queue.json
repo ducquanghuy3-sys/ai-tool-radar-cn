@@ -48,6 +48,18 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
+    "title": "We’re announcing the first Texas Energy Impact Fund recipients.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/texas-energy-impact-fund/",
+    "source": "Google AI",
+    "sourceUrl": "https://blog.google/innovation-and-ai/",
+    "score": 106,
+    "defaultTag": "模型发布",
+    "tag": "模型发布",
+    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
     "title": "We’re announcing new community investments in Missouri.",
     "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
     "source": "Google AI",
@@ -72,18 +84,6 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Bring any idea to life: Google AI Studio at I/O 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026/",
-    "source": "Google AI",
-    "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 104,
-    "defaultTag": "模型发布",
-    "tag": "模型发布",
-    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
     "title": "Skip to main content",
     "url": "https://blog.google/innovation-and-ai/#jump-content",
     "source": "Google AI",
@@ -93,6 +93,30 @@
     "tag": "模型发布",
     "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
+    "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+    "url": "https://news.ycombinator.com/item?id=48225596",
+    "source": "Hacker News",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "score": 112,
+    "defaultTag": "Agents",
+    "tag": "AI 自动化",
+    "chineseTitle": "news.ycombinator.com 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
+    "title": "Show HN: Spec-Driven Development Workflow for Claude Code",
+    "url": "https://news.ycombinator.com/item?id=48231575",
+    "source": "Hacker News",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "score": 96,
+    "defaultTag": "Agents",
+    "tag": "Claude Code",
+    "chineseTitle": "news.ycombinator.com 发布 Claude 相关更新，重点看真实工作流影响",
+    "chineseSummary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
     "reason": "需要人工判断是否适合中文读者"
   }
 ]
