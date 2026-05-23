@@ -150,31 +150,6 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-anthropic-com-claude-for-creative-work",
-    "title": "Claude 接入创意工具，设计、3D 和音视频流程开始连起来",
-    "originalTitle": "Claude for Creative Work",
-    "url": "https://www.anthropic.com/news/claude-for-creative-work",
-    "source": "anthropic.com",
-    "tag": "视觉生成",
-    "type": "自动发布",
-    "score": 134,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这说明 AI 工具正在进入设计、3D、音视频等专业软件，而不只是聊天窗口。中文创意团队可以开始关注连接器生态。",
-    "audience": [
-      "设计师",
-      "内容团队",
-      "3D、视频或创意工具用户"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Claude for Creative Work。来源：Anthropic News。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
     "id": "auto-github-blog-changes-to-github-copilot-individual-plans",
     "title": "GitHub 调整 Copilot 个人计划，使用限制需要重新关注",
     "originalTitle": "Changes to GitHub Copilot Individual plans",
