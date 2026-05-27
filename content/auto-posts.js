@@ -50,10 +50,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-github-copilot-for-eclipse-is-open-source",
+    "id": "auto-github-blog-copilot-memory-has-more-controls-for-deletion-scope-and-the-copilot-cli",
     "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
-    "originalTitle": "GitHub Copilot for Eclipse is open source",
-    "url": "https://github.blog/changelog/2026-05-21-github-copilot-for-eclipse-is-open-source",
+    "originalTitle": "Copilot Memory has more controls for deletion, scope, and the Copilot CLI",
+    "url": "https://github.blog/changelog/2026-05-26-copilot-memory-has-more-controls-for-deletion-scope-and-the-copilot-cli",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -70,7 +70,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：GitHub Copilot for Eclipse is open source。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Copilot Memory has more controls for deletion, scope, and the Copilot CLI。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
@@ -125,31 +125,6 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-anthropic-com-agents-for-financial-services",
-    "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
-    "originalTitle": "Agents for financial services",
-    "url": "https://www.anthropic.com/news/finance-agents",
-    "source": "anthropic.com",
-    "tag": "Claude Code",
-    "type": "自动发布",
-    "score": 134,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
-    "audience": [
-      "开发者",
-      "研发团队负责人",
-      "AI 编程工具用户"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Agents for financial services。来源：Anthropic News。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
     "id": "auto-github-blog-changes-to-github-copilot-individual-plans",
     "title": "GitHub 调整 Copilot 个人计划，使用限制需要重新关注",
     "originalTitle": "Changes to GitHub Copilot Individual plans",
@@ -175,18 +150,18 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-copilot-usage-metrics-reports-now-use-github-owned-download-urls",
+    "id": "auto-github-blog-target-copilot-models-to-organizations-with-model-rules",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Copilot usage metrics reports now use GitHub-owned download URLs",
-    "url": "https://github.blog/changelog/2026-05-20-copilot-usage-metrics-reports-now-use-github-owned-download-urls",
+    "originalTitle": "Target Copilot models to organizations with model rules",
+    "url": "https://github.blog/changelog/2026-05-26-target-copilot-models-to-organizations-with-model-rules",
     "source": "github.blog",
-    "tag": "AI 自动化",
+    "tag": "模型发布",
     "type": "自动发布",
     "score": 126,
     "comments": 0,
     "hoursAgo": 0,
     "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
     "audience": [
       "AI 工具重度用户",
       "团队流程负责人",
@@ -195,7 +170,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Copilot usage metrics reports now use GitHub-owned download URLs。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Target Copilot models to organizations with model rules。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
