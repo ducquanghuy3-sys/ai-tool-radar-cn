@@ -1,17 +1,5 @@
 [
   {
-    "title": "Introducing Managed Agents in the Gemini API",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/",
-    "source": "Google AI",
-    "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 138,
-    "defaultTag": "模型发布",
-    "tag": "模型发布",
-    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
     "title": "Running Guide agent: A step towards running unbounded",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/running-guide-agent/",
     "source": "Google AI",
@@ -48,15 +36,15 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Simulate real-world places with Project Genie and Street View",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands/",
+    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 104,
     "defaultTag": "模型发布",
-    "tag": "模型发布",
-    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "tag": "视觉生成",
+    "chineseTitle": "blog.google 发布创意工作流更新，设计和内容团队可关注",
+    "chineseSummary": "这条进入创意和设计流程，适合关注图像、视频、3D 或内容生产的人。",
     "reason": "需要人工判断是否适合中文读者"
   },
   {
@@ -92,6 +80,18 @@
     "defaultTag": "模型发布",
     "tag": "模型发布",
     "chineseTitle": "facebook.com 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://blog.google/innovation-and-ai/&title=Innovation%20%26%20AI",
+    "source": "Google AI",
+    "sourceUrl": "https://blog.google/innovation-and-ai/",
+    "score": 88,
+    "defaultTag": "模型发布",
+    "tag": "模型发布",
+    "chineseTitle": "linkedin.com 发布 AI 工具更新，适合判断是否纳入日常流程",
     "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
     "reason": "需要人工判断是否适合中文读者"
   }

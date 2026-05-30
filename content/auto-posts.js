@@ -25,31 +25,6 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-copilot-memory-has-more-controls-for-deletion-scope-and-the-copilot-cli",
-    "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
-    "originalTitle": "Copilot Memory has more controls for deletion, scope, and the Copilot CLI",
-    "url": "https://github.blog/changelog/2026-05-26-copilot-memory-has-more-controls-for-deletion-scope-and-the-copilot-cli",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 142,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "命令行 Agent 的价值不只在补全命令，而在能否进入脚本、排错和自动化流程。这篇适合做入门判断。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Copilot Memory has more controls for deletion, scope, and the Copilot CLI。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
     "id": "auto-anthropic-com-kpmg-integrates-claude-across-its-core-business-and-workforce-of-more-than-2",
     "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "originalTitle": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
@@ -96,6 +71,31 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Changes to GitHub Copilot Individual plans。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-copilot-usage-metrics-api-adds-cohorts-for-ai-adoption",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Copilot usage metrics API adds cohorts for AI adoption",
+    "url": "https://github.blog/changelog/2026-05-29-copilot-usage-metrics-api-adds-cohorts-for-ai-adoption",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Copilot usage metrics API adds cohorts for AI adoption。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
