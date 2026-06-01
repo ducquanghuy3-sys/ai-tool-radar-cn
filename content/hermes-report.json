@@ -1,6 +1,6 @@
 {
   "agent": "Hermes",
-  "ranAt": "2026-05-31T05:21:38.352Z",
+  "ranAt": "2026-06-01T06:07:46.948Z",
   "status": "ok",
   "publishedCount": 6,
   "reviewCount": 8,
@@ -9,8 +9,8 @@
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "GitHub 调整 Copilot 个人计划，使用限制需要重新关注",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "github.blog 发布 Claude 相关更新，重点看真实工作流影响",
-    "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程"
+    "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "github.blog 发布 Claude 相关更新，重点看真实工作流影响"
   ],
   "reviewTitles": [
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",

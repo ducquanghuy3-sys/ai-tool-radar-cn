@@ -75,6 +75,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-validating-agentic-behavior-when-correct-isn-t-deterministic",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Validating agentic behavior when “correct” isn’t deterministic",
+    "url": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Validating agentic behavior when “correct” isn’t deterministic。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-copilot-usage-metrics-api-adds-cohorts-for-ai-adoption",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "originalTitle": "Copilot usage metrics API adds cohorts for AI adoption",
@@ -121,31 +146,6 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Claude Opus 4.8 is generally available for GitHub Copilot。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
-    "url": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Continuous AI for accessibility: How GitHub transforms feedback into inclusion。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
