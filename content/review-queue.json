@@ -1,17 +1,5 @@
 [
   {
-    "title": "Running Guide agent: A step towards running unbounded",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/running-guide-agent/",
-    "source": "Google AI",
-    "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 122,
-    "defaultTag": "模型发布",
-    "tag": "模型发布",
-    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
     "title": "We’re announcing the first Texas Energy Impact Fund recipients.",
     "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/texas-energy-impact-fund/",
     "source": "Google AI",
@@ -29,6 +17,18 @@
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 106,
+    "defaultTag": "模型发布",
+    "tag": "模型发布",
+    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
+    "title": "How we used Gemini to build Google I/O 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+    "source": "Google AI",
+    "sourceUrl": "https://blog.google/innovation-and-ai/",
+    "score": 104,
     "defaultTag": "模型发布",
     "tag": "模型发布",
     "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",

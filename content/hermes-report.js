@@ -1,16 +1,16 @@
 window.HERMES_REPORT = {
   "agent": "Hermes",
-  "ranAt": "2026-06-01T06:07:46.948Z",
+  "ranAt": "2026-06-02T05:53:03.321Z",
   "status": "ok",
   "publishedCount": 6,
   "reviewCount": 8,
   "publishedTitles": [
     "GitHub Copilot 改成按用量计费，重度用户要重新算账",
+    "Updates to GitHub Copilot billing and plans：计费方式变化，重度用户需要重新算账",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "GitHub 调整 Copilot 个人计划，使用限制需要重新关注",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "github.blog 发布 Claude 相关更新，重点看真实工作流影响"
+    "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程"
   ],
   "reviewTitles": [
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
