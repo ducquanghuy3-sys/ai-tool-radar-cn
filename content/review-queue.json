@@ -12,8 +12,8 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "We’re announcing the first Texas Energy Impact Fund recipients.",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/texas-energy-impact-fund/",
+    "title": "We’re announcing a new data center and energy investments in Gray and Roberts Counties, Texas.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/meitner-energy-center/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 106,
@@ -45,6 +45,18 @@
     "tag": "视觉生成",
     "chineseTitle": "blog.google 发布创意工作流更新，设计和内容团队可关注",
     "chineseSummary": "这条进入创意和设计流程，适合关注图像、视频、3D 或内容生产的人。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
+    "title": "Kaggle is making AI benchmark creation effortless",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-kaggle--benchmarks-locally/",
+    "source": "Google AI",
+    "sourceUrl": "https://blog.google/innovation-and-ai/",
+    "score": 104,
+    "defaultTag": "模型发布",
+    "tag": "模型发布",
+    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
     "reason": "需要人工判断是否适合中文读者"
   },
   {
@@ -81,42 +93,6 @@
     "tag": "模型发布",
     "chineseTitle": "linkedin.com 发布 AI 工具更新，适合判断是否纳入日常流程",
     "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
-    "title": "Google Research",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
-    "source": "Google AI",
-    "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 88,
-    "defaultTag": "模型发布",
-    "tag": "模型发布",
-    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
-    "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
-    "url": "https://news.ycombinator.com/item?id=48387095",
-    "source": "Hacker News",
-    "sourceUrl": "https://news.ycombinator.com/",
-    "score": 112,
-    "defaultTag": "Agents",
-    "tag": "AI 自动化",
-    "chineseTitle": "news.ycombinator.com 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
-    "title": "Life saving &#x2F; first aid posters",
-    "url": "https://news.ycombinator.com/item?id=48369964",
-    "source": "Hacker News",
-    "sourceUrl": "https://news.ycombinator.com/",
-    "score": 78,
-    "defaultTag": "Agents",
-    "tag": "Agents",
-    "chineseTitle": "news.ycombinator.com 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
     "reason": "需要人工判断是否适合中文读者"
   }
 ]
