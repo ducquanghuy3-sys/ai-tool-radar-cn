@@ -1,9 +1,9 @@
 window.HERMES_REPORT = {
   "agent": "Hermes",
-  "ranAt": "2026-06-07T05:25:42.665Z",
+  "ranAt": "2026-06-08T05:55:04.463Z",
   "status": "ok",
   "publishedCount": 6,
-  "reviewCount": 9,
+  "reviewCount": 8,
   "publishedTitles": [
     "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
     "GitHub Copilot 改成按用量计费，重度用户要重新算账",
@@ -20,8 +20,7 @@ window.HERMES_REPORT = {
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "facebook.com 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "news.ycombinator.com 发布 AI 工具更新，适合判断是否纳入日常流程"
+    "facebook.com 发布 AI 工具更新，适合判断是否纳入日常流程"
   ],
   "stages": [
     "抓取来源",
