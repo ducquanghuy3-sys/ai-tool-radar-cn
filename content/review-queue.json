@@ -1,10 +1,10 @@
 [
   {
-    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+    "title": "Bringing the latest Gemini models to Apple developers",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/bringing-gemini-models-to-apple-developers/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 122,
+    "score": 120,
     "defaultTag": "模型发布",
     "tag": "模型发布",
     "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
@@ -48,20 +48,20 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "title": "Do better research with NotebookLM",
+    "url": "https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 104,
     "defaultTag": "模型发布",
-    "tag": "模型发布",
+    "tag": "知识库",
     "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "chineseSummary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Kaggle is making AI benchmark creation effortless",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-kaggle--benchmarks-locally/",
+    "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 104,
@@ -93,6 +93,18 @@
     "tag": "模型发布",
     "chineseTitle": "facebook.com 发布 AI 工具更新，适合判断是否纳入日常流程",
     "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
+    "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+    "url": "https://news.ycombinator.com/item?id=48449187",
+    "source": "Hacker News",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "score": 78,
+    "defaultTag": "Agents",
+    "tag": "Agents",
+    "chineseTitle": "news.ycombinator.com 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
     "reason": "需要人工判断是否适合中文读者"
   }
 ]
