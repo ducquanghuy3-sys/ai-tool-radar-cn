@@ -24,6 +24,18 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
+    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
+    "source": "Google AI",
+    "sourceUrl": "https://blog.google/innovation-and-ai/",
+    "score": 104,
+    "defaultTag": "模型发布",
+    "tag": "模型发布",
+    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
     "title": "How we used Gemini to build Google I/O 2026",
     "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
     "source": "Google AI",
@@ -36,15 +48,15 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+    "title": "See what 3 builders are making with Gemma 4",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4-builders/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 104,
     "defaultTag": "模型发布",
-    "tag": "视觉生成",
-    "chineseTitle": "blog.google 发布创意工作流更新，设计和内容团队可关注",
-    "chineseSummary": "这条进入创意和设计流程，适合关注图像、视频、3D 或内容生产的人。",
+    "tag": "模型发布",
+    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
     "reason": "需要人工判断是否适合中文读者"
   },
   {
@@ -81,30 +93,6 @@
     "tag": "模型发布",
     "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
-    "title": "Facebook",
-    "url": "https://www.facebook.com/sharer/sharer.php?caption=Innovation%20%26%20AI&u=https://blog.google/innovation-and-ai/",
-    "source": "Google AI",
-    "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 88,
-    "defaultTag": "模型发布",
-    "tag": "模型发布",
-    "chineseTitle": "facebook.com 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
-    "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-    "url": "https://news.ycombinator.com/item?id=48449187",
-    "source": "Hacker News",
-    "sourceUrl": "https://news.ycombinator.com/",
-    "score": 78,
-    "defaultTag": "Agents",
-    "tag": "Agents",
-    "chineseTitle": "news.ycombinator.com 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
     "reason": "需要人工判断是否适合中文读者"
   }
 ]
