@@ -25,6 +25,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-anthropic-com-introducing-claude-opus-4-8",
+    "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
+    "originalTitle": "Introducing Claude Opus 4.8",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "source": "anthropic.com",
+    "tag": "Claude Code",
+    "type": "自动发布",
+    "score": 150,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
+    "audience": [
+      "开发者",
+      "研发团队负责人",
+      "AI 编程工具用户"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Introducing Claude Opus 4.8。来源：Anthropic News。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-give-github-copilot-cli-real-code-intelligence-with-language-servers",
     "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
     "originalTitle": "Give GitHub Copilot CLI real code intelligence with language servers",
@@ -100,10 +125,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-copilot-chat-now-sees-your-agent-sessions",
-    "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
-    "originalTitle": "Copilot Chat now sees your agent sessions",
-    "url": "https://github.blog/changelog/2026-06-10-copilot-chat-now-sees-your-agent-sessions",
+    "id": "auto-github-blog-copilot-cli-configure-everything-from-one-place-with-settings",
+    "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
+    "originalTitle": "Copilot CLI: Configure everything from one place with /settings",
+    "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -111,7 +136,7 @@ window.AUTO_POSTS = [
     "comments": 0,
     "hoursAgo": 0,
     "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "summary": "命令行 Agent 的价值不只在补全命令，而在能否进入脚本、排错和自动化流程。这篇适合做入门判断。",
     "audience": [
       "AI 工具重度用户",
       "团队流程负责人",
@@ -120,7 +145,32 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Copilot Chat now sees your agent sessions。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Copilot CLI: Configure everything from one place with /settings。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-anthropic-com-dxc-will-integrate-claude-into-the-systems-banks-airlines-and-other-regulate",
+    "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
+    "originalTitle": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+    "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+    "source": "anthropic.com",
+    "tag": "Claude Code",
+    "type": "自动发布",
+    "score": 134,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
+    "audience": [
+      "开发者",
+      "研发团队负责人",
+      "AI 编程工具用户"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on。来源：Anthropic News。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
