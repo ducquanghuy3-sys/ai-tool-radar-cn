@@ -94,5 +94,17 @@
     "chineseTitle": "facebook.com 发布 AI 工具更新，适合判断是否纳入日常流程",
     "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
     "reason": "需要人工判断是否适合中文读者"
+  },
+  {
+    "title": "Ask HN: Has anyone replaced Claude&#x2F;GPT with a local model for daily coding?",
+    "url": "https://news.ycombinator.com/item?id=48542100",
+    "source": "Hacker News",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "score": 112,
+    "defaultTag": "Agents",
+    "tag": "Claude Code",
+    "chineseTitle": "news.ycombinator.com 发布 Claude 相关更新，重点看真实工作流影响",
+    "chineseSummary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
+    "reason": "需要人工判断是否适合中文读者"
   }
 ]
