@@ -1,17 +1,5 @@
 [
   {
-    "title": "Bringing the latest Gemini models to Apple developers",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/bringing-gemini-models-to-apple-developers/",
-    "source": "Google AI",
-    "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 120,
-    "defaultTag": "模型发布",
-    "tag": "模型发布",
-    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
     "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
     "source": "Google AI",
@@ -96,15 +84,15 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Ask HN: Has anyone replaced Claude&#x2F;GPT with a local model for daily coding?",
-    "url": "https://news.ycombinator.com/item?id=48542100",
-    "source": "Hacker News",
-    "sourceUrl": "https://news.ycombinator.com/",
-    "score": 112,
-    "defaultTag": "Agents",
-    "tag": "Claude Code",
-    "chineseTitle": "news.ycombinator.com 发布 Claude 相关更新，重点看真实工作流影响",
-    "chineseSummary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://blog.google/innovation-and-ai/&title=Innovation%20%26%20AI",
+    "source": "Google AI",
+    "sourceUrl": "https://blog.google/innovation-and-ai/",
+    "score": 88,
+    "defaultTag": "模型发布",
+    "tag": "模型发布",
+    "chineseTitle": "linkedin.com 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
     "reason": "需要人工判断是否适合中文读者"
   }
 ]
