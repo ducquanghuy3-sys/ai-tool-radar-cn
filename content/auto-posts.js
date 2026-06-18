@@ -50,31 +50,6 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-give-github-copilot-cli-real-code-intelligence-with-language-servers",
-    "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
-    "originalTitle": "Give GitHub Copilot CLI real code intelligence with language servers",
-    "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 142,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "命令行 Agent 的价值不只在补全命令，而在能否进入脚本、排错和自动化流程。这篇适合做入门判断。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Give GitHub Copilot CLI real code intelligence with language servers。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
     "id": "auto-github-blog-github-copilot-is-moving-to-usage-based-billing",
     "title": "GitHub Copilot 改成按用量计费，重度用户要重新算账",
     "originalTitle": "GitHub Copilot is moving to usage-based billing",
@@ -221,6 +196,31 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Introducing the Services Track and Partner Hub of the Claude Partner Network。来源：Anthropic News。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-getting-more-from-each-token-how-copilot-improves-context-handling-and-model-r",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Getting more from each token: How Copilot improves context handling and model routing",
+    "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
+    "source": "github.blog",
+    "tag": "模型发布",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Getting more from each token: How Copilot improves context handling and model routing。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
