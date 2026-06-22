@@ -1,6 +1,6 @@
 window.HERMES_REPORT = {
   "agent": "Hermes",
-  "ranAt": "2026-06-21T06:07:15.983Z",
+  "ranAt": "2026-06-22T06:31:40.396Z",
   "status": "ok",
   "publishedCount": 9,
   "reviewCount": 8,
@@ -9,7 +9,7 @@ window.HERMES_REPORT = {
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "GitHub Copilot CLI 新内容：适合命令行用户关注",
     "GitHub Copilot CLI 新内容：适合命令行用户关注",
-    "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
+    "GitHub Copilot 改成按用量计费，重度用户要重新算账",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
