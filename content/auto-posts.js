@@ -25,31 +25,6 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-github-copilot-cli-for-beginners-overview-of-common-slash-commands",
-    "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
-    "originalTitle": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 142,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "命令行 Agent 的价值不只在补全命令，而在能否进入脚本、排错和自动化流程。这篇适合做入门判断。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：GitHub Copilot CLI for Beginners: Overview of common slash commands。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
     "id": "auto-github-blog-github-copilot-is-moving-to-usage-based-billing",
     "title": "GitHub Copilot 改成按用量计费，重度用户要重新算账",
     "originalTitle": "GitHub Copilot is moving to usage-based billing",
@@ -75,6 +50,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-copilot-cli-new-terminal-interface-is-generally-available",
+    "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
+    "originalTitle": "Copilot CLI: New terminal interface is generally available",
+    "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 142,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "命令行 Agent 的价值不只在补全命令，而在能否进入脚本、排错和自动化流程。这篇适合做入门判断。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Copilot CLI: New terminal interface is generally available。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-github-copilot-app-the-agent-native-desktop-experience",
     "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
     "originalTitle": "GitHub Copilot app: The agent-native desktop experience",
@@ -96,6 +96,31 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：GitHub Copilot app: The agent-native desktop experience。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-anthropic-com-product-jun-23-2026-introducing-claude-tag-claude-tag-is-a-new-way-for-teams",
+    "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
+    "originalTitle": "Product Jun 23, 2026 Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.",
+    "url": "https://www.anthropic.com/news/introducing-claude-tag",
+    "source": "anthropic.com",
+    "tag": "Claude Code",
+    "type": "自动发布",
+    "score": 134,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
+    "audience": [
+      "开发者",
+      "研发团队负责人",
+      "AI 编程工具用户"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Product Jun 23, 2026 Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.。来源：Anthropic News。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
