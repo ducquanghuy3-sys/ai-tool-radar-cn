@@ -50,31 +50,6 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-copilot-cli-new-terminal-interface-is-generally-available",
-    "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
-    "originalTitle": "Copilot CLI: New terminal interface is generally available",
-    "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 142,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "命令行 Agent 的价值不只在补全命令，而在能否进入脚本、排错和自动化流程。这篇适合做入门判断。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Copilot CLI: New terminal interface is generally available。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
     "id": "auto-github-blog-github-copilot-app-the-agent-native-desktop-experience",
     "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
     "originalTitle": "GitHub Copilot app: The agent-native desktop experience",
@@ -246,6 +221,31 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Getting more from each token: How Copilot improves context handling and model routing。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-what-are-git-worktrees-and-why-should-i-use-them-",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "What are git worktrees, and why should I use them?",
+    "url": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：What are git worktrees, and why should I use them?。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
