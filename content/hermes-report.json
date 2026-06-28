@@ -1,9 +1,9 @@
 {
   "agent": "Hermes",
-  "ranAt": "2026-06-27T04:56:19.714Z",
+  "ranAt": "2026-06-28T05:20:07.460Z",
   "status": "ok",
   "publishedCount": 10,
-  "reviewCount": 9,
+  "reviewCount": 8,
   "publishedTitles": [
     "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
@@ -24,8 +24,7 @@
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "facebook.com 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "linkedin.com 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "news.ycombinator.com 发布 AI 工具更新，适合判断是否纳入日常流程"
+    "linkedin.com 发布 AI 工具更新，适合判断是否纳入日常流程"
   ],
   "stages": [
     "抓取来源",
