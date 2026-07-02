@@ -50,31 +50,6 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
-    "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
-    "originalTitle": "Copilot Agent is now available in JetBrains AI Assistant",
-    "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 142,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Copilot Agent is now available in JetBrains AI Assistant。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
     "id": "auto-github-blog-github-copilot-app-the-agent-native-desktop-experience",
     "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
     "originalTitle": "GitHub Copilot app: The agent-native desktop experience",
@@ -200,27 +175,52 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-claude-sonnet-5-is-generally-available-for-github-copilot",
-    "title": "github.blog 发布 Claude 相关更新，重点看真实工作流影响",
-    "originalTitle": "Claude Sonnet 5 is generally available for GitHub Copilot",
-    "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+    "id": "auto-github-blog-continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
+    "url": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
     "source": "github.blog",
-    "tag": "Claude Code",
+    "tag": "AI 自动化",
     "type": "自动发布",
     "score": 126,
     "comments": 0,
     "hoursAgo": 0,
     "editor": "自动中文编辑",
-    "summary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
     "audience": [
-      "开发者",
-      "研发团队负责人",
-      "AI 编程工具用户"
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
     ],
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Claude Sonnet 5 is generally available for GitHub Copilot。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Continuous AI for accessibility: How GitHub transforms feedback into inclusion。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-github-universe-is-back-all-together-now-in-the-agentic-era",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "GitHub Universe is back: All together now, in the agentic era",
+    "url": "https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：GitHub Universe is back: All together now, in the agentic era。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
