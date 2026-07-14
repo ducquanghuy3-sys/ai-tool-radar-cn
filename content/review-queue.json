@@ -94,17 +94,5 @@
     "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
     "reason": "需要人工判断是否适合中文读者"
-  },
-  {
-    "title": "Ask HN: Add flag for AI-generated articles",
-    "url": "https://news.ycombinator.com/item?id=48886741",
-    "source": "Hacker News",
-    "sourceUrl": "https://news.ycombinator.com/",
-    "score": 78,
-    "defaultTag": "Agents",
-    "tag": "Agents",
-    "chineseTitle": "news.ycombinator.com 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "reason": "需要人工判断是否适合中文读者"
   }
 ]
