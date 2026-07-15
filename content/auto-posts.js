@@ -75,6 +75,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-anthropic-com-introducing-claude-for-teachers",
+    "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
+    "originalTitle": "Introducing Claude for Teachers",
+    "url": "https://www.anthropic.com/news/claude-for-teachers",
+    "source": "anthropic.com",
+    "tag": "Claude Code",
+    "type": "自动发布",
+    "score": 134,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
+    "audience": [
+      "开发者",
+      "研发团队负责人",
+      "AI 编程工具用户"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Introducing Claude for Teachers。来源：Anthropic News。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-anthropic-com-jul-9-2026-case-study-ust-is-bringing-claude-to-physical-ai",
     "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "originalTitle": "Jul 9, 2026 Case Study UST is bringing Claude to physical AI",
@@ -121,31 +146,6 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Introducing a way to reflect on how you use Claude。来源：Anthropic News。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-anthropic-com-introducing-claude-tag",
-    "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
-    "originalTitle": "Introducing Claude Tag",
-    "url": "https://www.anthropic.com/news/introducing-claude-tag",
-    "source": "anthropic.com",
-    "tag": "Claude Code",
-    "type": "自动发布",
-    "score": 134,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
-    "audience": [
-      "开发者",
-      "研发团队负责人",
-      "AI 编程工具用户"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Introducing Claude Tag。来源：Anthropic News。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
