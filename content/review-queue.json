@@ -48,8 +48,8 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Skip to main content",
-    "url": "https://blog.google/innovation-and-ai/#jump-content",
+    "title": "Google Research",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 88,
@@ -60,32 +60,32 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Facebook",
-    "url": "https://www.facebook.com/sharer/sharer.php?caption=Innovation%20%26%20AI&u=https://blog.google/innovation-and-ai/",
+    "title": "Google Labs",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 88,
     "defaultTag": "模型发布",
     "tag": "模型发布",
-    "chineseTitle": "facebook.com 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "LinkedIn",
-    "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://blog.google/innovation-and-ai/&title=Innovation%20%26%20AI",
+    "title": "Quantum computing",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 88,
     "defaultTag": "模型发布",
     "tag": "模型发布",
-    "chineseTitle": "linkedin.com 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Google Research",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/",
+    "title": "Global network",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 88,
