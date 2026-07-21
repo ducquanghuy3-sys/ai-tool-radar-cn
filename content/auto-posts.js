@@ -25,31 +25,6 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-    "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
-    "originalTitle": "GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-    "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 142,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这说明 Copilot Agent 正在往更稳定的云端执行环境走。对团队来说，启动速度和运行环境可控性都会影响真实使用体验。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：GitHub Mobile: Fix pull request comments with Copilot cloud agent。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
     "id": "auto-github-blog-github-copilot-app-the-agent-native-desktop-experience",
     "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
     "originalTitle": "GitHub Copilot app: The agent-native desktop experience",
@@ -175,10 +150,35 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+    "id": "auto-github-blog-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+    "title": "AI credit pools for cost centers in the billing UI：计费方式变化，重度用户需要重新算账",
+    "originalTitle": "AI credit pools for cost centers in the billing UI",
+    "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+    "source": "github.blog",
+    "tag": "成本优化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这会直接影响个人和团队的 AI 工具成本。Agent 工作越长、调用越多，预算管理就越不能只看月费。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队预算负责人",
+      "需要管理 Copilot 或 Agent 成本的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：AI credit pools for cost centers in the billing UI。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-repository-level-github-copilot-usage-metrics-generally-available",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
+    "originalTitle": "Repository-level GitHub Copilot usage metrics generally available",
+    "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -195,7 +195,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：How GitHub Copilot enables zero DNS configuration for GitHub Pages。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Repository-level GitHub Copilot usage metrics generally available。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }

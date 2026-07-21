@@ -1,17 +1,17 @@
 window.HERMES_REPORT = {
   "agent": "Hermes",
-  "ranAt": "2026-07-20T04:38:20.530Z",
+  "ranAt": "2026-07-21T04:17:05.841Z",
   "status": "ok",
   "publishedCount": 8,
-  "reviewCount": 8,
+  "reviewCount": 9,
   "publishedTitles": [
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
-    "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "AI credit pools for cost centers in the billing UI：计费方式变化，重度用户需要重新算账",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程"
   ],
   "reviewTitles": [
@@ -22,7 +22,8 @@ window.HERMES_REPORT = {
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程"
+    "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "news.ycombinator.com 发布 AI 工具更新，适合判断是否纳入日常流程"
   ],
   "stages": [
     "抓取来源",
