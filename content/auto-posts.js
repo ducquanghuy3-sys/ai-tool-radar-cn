@@ -25,6 +25,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+    "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
+    "originalTitle": "Copilot code review: Agent skills and MCP now generally available",
+    "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+    "source": "github.blog",
+    "tag": "MCP",
+    "type": "自动发布",
+    "score": 142,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和工具连接、工作流接入有关，适合判断 AI 工具是否能进入真实生产流程。",
+    "audience": [
+      "Agent 工具开发者",
+      "自动化流程负责人",
+      "想接入内部工具的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Copilot code review: Agent skills and MCP now generally available。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-automating-cross-repo-documentation-with-github-agentic-workflows",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "originalTitle": "Automating cross-repo documentation with GitHub Agentic Workflows",
@@ -196,31 +221,6 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：GitHub Copilot app for Beginners: Getting started。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-copilot-vs-raw-api-access-what-are-you-actually-paying-for-",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Copilot vs. raw API access: What are you actually paying for?",
-    "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Copilot vs. raw API access: What are you actually paying for?。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
