@@ -50,31 +50,6 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-retiring-the-copilot-billing-preview-app",
-    "title": "Retiring the Copilot Billing Preview app：计费方式变化，重度用户需要重新算账",
-    "originalTitle": "Retiring the Copilot Billing Preview app",
-    "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
-    "source": "github.blog",
-    "tag": "成本优化",
-    "type": "自动发布",
-    "score": 142,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这会直接影响个人和团队的 AI 工具成本。Agent 工作越长、调用越多，预算管理就越不能只看月费。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队预算负责人",
-      "需要管理 Copilot 或 Agent 成本的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Retiring the Copilot Billing Preview app。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
     "id": "auto-github-blog-automating-cross-repo-documentation-with-github-agentic-workflows",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "originalTitle": "Automating cross-repo documentation with GitHub Agentic Workflows",
@@ -171,6 +146,31 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：A guide to slash commands in the GitHub Copilot app。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Stacked sessions and pull requests in the GitHub Copilot app",
+    "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Stacked sessions and pull requests in the GitHub Copilot app。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
