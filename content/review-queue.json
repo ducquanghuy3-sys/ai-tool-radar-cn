@@ -1,17 +1,5 @@
 [
   {
-    "title": "Introducing Gemini Robotics ER 2",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
-    "source": "Google AI",
-    "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 138,
-    "defaultTag": "模型发布",
-    "tag": "模型发布",
-    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
     "title": "Inside our 353,000-person vibe coding course",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
     "source": "Google AI",
@@ -50,6 +38,18 @@
   {
     "title": "Our WeatherNext 2 AI model demonstrated a massive leap forward in predicting cyclones.",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/",
+    "source": "Google AI",
+    "sourceUrl": "https://blog.google/innovation-and-ai/",
+    "score": 104,
+    "defaultTag": "模型发布",
+    "tag": "模型发布",
+    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
+    "title": "More than 1 billion people are using the Gemini app every month.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 104,
