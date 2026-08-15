@@ -25,31 +25,6 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-    "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
-    "originalTitle": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-    "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 158,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "命令行 Agent 的价值不只在补全命令，而在能否进入脚本、排错和自动化流程。这篇适合做入门判断。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
     "id": "auto-anthropic-com-ask-claude-about-the-anthropic-economic-index",
     "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "originalTitle": "Ask Claude about the Anthropic Economic Index",
@@ -75,6 +50,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "How to bring your software delivery workflow into GitHub with agent apps",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 142,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：How to bring your software delivery workflow into GitHub with agent apps。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-github-copilot-app-the-agent-native-desktop-experience",
     "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
     "originalTitle": "GitHub Copilot app: The agent-native desktop experience",
@@ -96,6 +96,31 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：GitHub Copilot app: The agent-native desktop experience。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-anthropic-com-how-claude-s-text-watermark-works",
+    "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
+    "originalTitle": "How Claude’s text watermark works",
+    "url": "https://www.anthropic.com/news/claude-text-watermark",
+    "source": "anthropic.com",
+    "tag": "Claude Code",
+    "type": "自动发布",
+    "score": 134,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
+    "audience": [
+      "开发者",
+      "研发团队负责人",
+      "AI 编程工具用户"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：How Claude’s text watermark works。来源：Anthropic News。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
@@ -150,10 +175,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-using-the-github-copilot-sdk-for-java",
+    "id": "auto-github-blog-grok-4-6-is-now-available-in-github-copilot",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Using the GitHub Copilot SDK for Java",
-    "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+    "originalTitle": "Grok 4.6 is now available in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -170,7 +195,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Using the GitHub Copilot SDK for Java。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Grok 4.6 is now available in GitHub Copilot。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
