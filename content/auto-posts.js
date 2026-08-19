@@ -175,10 +175,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-grok-4-6-is-now-available-in-github-copilot",
+    "id": "auto-github-blog-enterprise-managed-settings-in-github-copilot-for-jetbrains",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Grok 4.6 is now available in GitHub Copilot",
-    "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+    "originalTitle": "Enterprise managed settings in GitHub Copilot for JetBrains",
+    "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -195,7 +195,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Grok 4.6 is now available in GitHub Copilot。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Enterprise managed settings in GitHub Copilot for JetBrains。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
