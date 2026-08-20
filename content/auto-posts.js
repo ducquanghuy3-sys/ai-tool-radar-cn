@@ -150,6 +150,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-github-copilot-app-for-beginners-managing-your-work",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "GitHub Copilot app for Beginners: Managing your work",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：GitHub Copilot app for Beginners: Managing your work。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-github-copilot-app-for-beginners-write-your-first-prompt",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "originalTitle": "GitHub Copilot app for Beginners: Write your first prompt",
@@ -171,31 +196,6 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：GitHub Copilot app for Beginners: Write your first prompt。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Enterprise managed settings in GitHub Copilot for JetBrains",
-    "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Enterprise managed settings in GitHub Copilot for JetBrains。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
