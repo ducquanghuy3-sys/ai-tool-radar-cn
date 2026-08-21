@@ -175,10 +175,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-github-copilot-app-for-beginners-write-your-first-prompt",
+    "id": "auto-github-blog-using-the-github-copilot-sdk-for-java",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "GitHub Copilot app for Beginners: Write your first prompt",
-    "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+    "originalTitle": "Using the GitHub Copilot SDK for Java",
+    "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -195,7 +195,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：GitHub Copilot app for Beginners: Write your first prompt。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Using the GitHub Copilot SDK for Java。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
