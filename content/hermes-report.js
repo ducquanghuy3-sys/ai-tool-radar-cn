@@ -1,14 +1,14 @@
 window.HERMES_REPORT = {
   "agent": "Hermes",
-  "ranAt": "2026-08-30T06:21:11.264Z",
+  "ranAt": "2026-08-31T06:48:57.570Z",
   "status": "ok",
   "publishedCount": 7,
   "reviewCount": 8,
   "publishedTitles": [
+    "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "github.blog 发布创意工作流更新，设计和内容团队可关注",
     "Upcoming changes to GitHub Copilot policies and billing：计费方式变化，重度用户需要重新算账",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
-    "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响"
