@@ -1,5 +1,17 @@
 [
   {
+    "title": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/",
+    "source": "Google AI",
+    "sourceUrl": "https://blog.google/innovation-and-ai/",
+    "score": 138,
+    "defaultTag": "模型发布",
+    "tag": "模型发布",
+    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
     "title": "We’re introducing flexible usage limits for Gemini Notebook.",
     "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/",
     "source": "Google AI",
@@ -74,18 +86,6 @@
   {
     "title": "Expert Intelligence: a new way for you to engage with trusted content",
     "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/",
-    "source": "Google AI",
-    "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 104,
-    "defaultTag": "模型发布",
-    "tag": "模型发布",
-    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
-    "title": "Turn your voice into action with new productivity features in Gemini Live",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 104,
