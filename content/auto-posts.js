@@ -1,17 +1,17 @@
 window.AUTO_POSTS = [
   {
-    "id": "auto-github-blog-content-exclusions-generally-available-in-copilot-app-and-cli",
-    "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
-    "originalTitle": "Content exclusions generally available in Copilot app and CLI",
-    "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+    "id": "auto-github-blog-github-copilot-app-for-beginners-run-several-agents-at-once",
+    "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
+    "originalTitle": "GitHub Copilot app for Beginners: Run several agents at once",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
-    "score": 142,
+    "score": 158,
     "comments": 0,
     "hoursAgo": 0,
     "editor": "自动中文编辑",
-    "summary": "命令行 Agent 的价值不只在补全命令，而在能否进入脚本、排错和自动化流程。这篇适合做入门判断。",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
     "audience": [
       "AI 工具重度用户",
       "团队流程负责人",
@@ -20,7 +20,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Content exclusions generally available in Copilot app and CLI。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：GitHub Copilot app for Beginners: Run several agents at once。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
@@ -75,6 +75,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-upcoming-deprecation-of-selected-github-copilot-models",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Upcoming deprecation of selected GitHub Copilot models",
+    "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+    "source": "github.blog",
+    "tag": "模型发布",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Upcoming deprecation of selected GitHub Copilot models。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-using-the-github-copilot-sdk-for-java",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "originalTitle": "Using the GitHub Copilot SDK for Java",
@@ -121,31 +146,6 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Our position on open-weights models。来源：Anthropic News。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-developer-skills",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Developer skills",
-    "url": "https://github.blog/developer-skills/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 108,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Developer skills。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }

@@ -12,8 +12,8 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 122,
@@ -24,15 +24,15 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Introducing agentic video understanding with Gemini",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 122,
     "defaultTag": "模型发布",
-    "tag": "视觉生成",
-    "chineseTitle": "blog.google 发布创意工作流更新，设计和内容团队可关注",
-    "chineseSummary": "这条进入创意和设计流程，适合关注图像、视频、3D 或内容生产的人。",
+    "tag": "模型发布",
+    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
     "reason": "需要人工判断是否适合中文读者"
   },
   {
@@ -93,6 +93,18 @@
     "tag": "模型发布",
     "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
+    "title": "Ask HN: Who is using MCP in production?",
+    "url": "https://news.ycombinator.com/item?id=49548600",
+    "source": "Hacker News",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "score": 78,
+    "defaultTag": "Agents",
+    "tag": "MCP",
+    "chineseTitle": "news.ycombinator.com 出现新的工具连接线索，值得看它怎么接入工作流",
+    "chineseSummary": "这条和工具连接、工作流接入有关，适合判断 AI 工具是否能进入真实生产流程。",
     "reason": "需要人工判断是否适合中文读者"
   }
 ]
