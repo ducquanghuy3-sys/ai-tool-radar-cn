@@ -25,6 +25,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-project-hydrafusion-frontier-quality-via-multi-model-orchestration",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Project HydraFusion: Frontier quality via multi-model orchestration",
+    "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+    "source": "github.blog",
+    "tag": "模型发布",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Project HydraFusion: Frontier quality via multi-model orchestration。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
     "title": "github.blog 发布计费变化，AI 工具预算要重新评估",
     "originalTitle": "How we make AI coding more cost efficient without sacrificing task quality",
@@ -75,35 +100,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-upcoming-deprecation-of-selected-github-copilot-models",
+    "id": "auto-github-blog-github-copilot-weekly-releases-august-31",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Upcoming deprecation of selected GitHub Copilot models",
-    "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
-    "source": "github.blog",
-    "tag": "模型发布",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Upcoming deprecation of selected GitHub Copilot models。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-using-the-github-copilot-sdk-for-java",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Using the GitHub Copilot SDK for Java",
-    "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+    "originalTitle": "GitHub Copilot weekly releases — August 31",
+    "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -120,7 +120,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Using the GitHub Copilot SDK for Java。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：GitHub Copilot weekly releases — August 31。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },

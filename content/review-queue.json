@@ -72,8 +72,8 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "Expert Intelligence: a new way for you to engage with trusted content",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/",
+    "title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 104,
@@ -93,18 +93,6 @@
     "tag": "模型发布",
     "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
-    "title": "Ask HN: Who is using MCP in production?",
-    "url": "https://news.ycombinator.com/item?id=49548600",
-    "source": "Hacker News",
-    "sourceUrl": "https://news.ycombinator.com/",
-    "score": 78,
-    "defaultTag": "Agents",
-    "tag": "MCP",
-    "chineseTitle": "news.ycombinator.com 出现新的工具连接线索，值得看它怎么接入工作流",
-    "chineseSummary": "这条和工具连接、工作流接入有关，适合判断 AI 工具是否能进入真实生产流程。",
     "reason": "需要人工判断是否适合中文读者"
   }
 ]
