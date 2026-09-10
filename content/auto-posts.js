@@ -50,6 +50,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-enterprise-managed-permissions-for-github-copilot-agent-operations",
+    "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
+    "originalTitle": "Enterprise managed permissions for GitHub Copilot agent operations",
+    "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 142,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Enterprise managed permissions for GitHub Copilot agent operations。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-project-hydrafusion-frontier-quality-via-multi-model-orchestration",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "originalTitle": "Project HydraFusion: Frontier quality via multi-model orchestration",
@@ -96,31 +121,6 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：How we make AI coding more cost efficient without sacrificing task quality。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-github-copilot-app-for-beginners-automate-dependabot-pull-request-triage",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：GitHub Copilot app for Beginners: Automate Dependabot pull request triage。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
