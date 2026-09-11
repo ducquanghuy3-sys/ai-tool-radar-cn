@@ -12,18 +12,6 @@
     "reason": "需要人工判断是否适合中文读者"
   },
   {
-    "title": "We’re introducing flexible usage limits for Gemini Notebook.",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/",
-    "source": "Google AI",
-    "sourceUrl": "https://blog.google/innovation-and-ai/",
-    "score": 122,
-    "defaultTag": "模型发布",
-    "tag": "模型发布",
-    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "reason": "需要人工判断是否适合中文读者"
-  },
-  {
     "title": "Gemini Notebook",
     "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/",
     "source": "Google AI",
@@ -38,6 +26,18 @@
   {
     "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "source": "Google AI",
+    "sourceUrl": "https://blog.google/innovation-and-ai/",
+    "score": 104,
+    "defaultTag": "模型发布",
+    "tag": "模型发布",
+    "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "chineseSummary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "reason": "需要人工判断是否适合中文读者"
+  },
+  {
+    "title": "The Gemini app is now available for Windows",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
     "source": "Google AI",
     "sourceUrl": "https://blog.google/innovation-and-ai/",
     "score": 104,
