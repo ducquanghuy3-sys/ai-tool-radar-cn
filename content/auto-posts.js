@@ -25,6 +25,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-add-vs-code-agents-to-copilot-usage-metrics",
+    "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
+    "originalTitle": "Add VS Code Agents to Copilot usage metrics",
+    "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 158,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Add VS Code Agents to Copilot usage metrics。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-anthropic-com-how-claude-s-text-watermark-works",
     "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "originalTitle": "How Claude’s text watermark works",
@@ -46,6 +71,31 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：How Claude’s text watermark works。来源：Anthropic News。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+    "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Marketing ops as code: Automating events from planning to follow-up on GitHub。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
@@ -96,56 +146,6 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Project HydraFusion: Frontier quality via multi-model orchestration。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-    "title": "github.blog 发布计费变化，AI 工具预算要重新评估",
-    "originalTitle": "How we make AI coding more cost efficient without sacrificing task quality",
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
-    "source": "github.blog",
-    "tag": "成本优化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条会影响团队预算和工具选择，适合尽早看清计费口径，再决定是否调整使用方式。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队预算负责人",
-      "需要管理 Copilot 或 Agent 成本的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：How we make AI coding more cost efficient without sacrificing task quality。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-using-the-github-copilot-sdk-for-java",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Using the GitHub Copilot SDK for Java",
-    "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Using the GitHub Copilot SDK for Java。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
