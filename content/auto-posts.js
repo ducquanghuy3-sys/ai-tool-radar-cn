@@ -50,6 +50,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-migrating-the-github-copilot-runtime-to-rust-using-copilot",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+    "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Migrating the GitHub Copilot runtime to Rust, using Copilot。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "originalTitle": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
@@ -121,31 +146,6 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Project HydraFusion: Frontier quality via multi-model orchestration。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-    "title": "github.blog 发布计费变化，AI 工具预算要重新评估",
-    "originalTitle": "How we make AI coding more cost efficient without sacrificing task quality",
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
-    "source": "github.blog",
-    "tag": "成本优化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条会影响团队预算和工具选择，适合尽早看清计费口径，再决定是否调整使用方式。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队预算负责人",
-      "需要管理 Copilot 或 Agent 成本的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：How we make AI coding more cost efficient without sacrificing task quality。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },

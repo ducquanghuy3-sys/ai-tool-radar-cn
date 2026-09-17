@@ -1,6 +1,6 @@
 window.HERMES_REPORT = {
   "agent": "Hermes",
-  "ranAt": "2026-09-16T05:47:29.568Z",
+  "ranAt": "2026-09-17T05:53:52.629Z",
   "status": "ok",
   "publishedCount": 7,
   "reviewCount": 8,
@@ -10,7 +10,7 @@ window.HERMES_REPORT = {
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "github.blog 发布计费变化，AI 工具预算要重新评估",
+    "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响"
   ],
   "reviewTitles": [
