@@ -25,6 +25,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-agentic-cli-customizations-now-in-the-usage-metrics-api",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Agentic CLI customizations now in the usage metrics API",
+    "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 142,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Agentic CLI customizations now in the usage metrics API。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-anthropic-com-how-claude-s-text-watermark-works",
     "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "originalTitle": "How Claude’s text watermark works",
@@ -125,35 +150,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Project HydraFusion: Frontier quality via multi-model orchestration",
-    "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-    "source": "github.blog",
-    "tag": "模型发布",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Project HydraFusion: Frontier quality via multi-model orchestration。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-anthropic-com-our-position-on-open-weights-models",
+    "id": "auto-anthropic-com-previewing-the-model-hardware-standard",
     "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
-    "originalTitle": "Our position on open-weights models",
-    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "originalTitle": "Previewing the Model Hardware Standard",
+    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
     "source": "anthropic.com",
     "tag": "Claude Code",
     "type": "自动发布",
@@ -170,7 +170,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Our position on open-weights models。来源：Anthropic News。已自动改写为中文标题和中文判断。"
+        "原题：Previewing the Model Hardware Standard。来源：Anthropic News。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
