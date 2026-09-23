@@ -148,30 +148,5 @@ window.AUTO_POSTS = [
         "原题：Project HydraFusion: Frontier quality via multi-model orchestration。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
-  },
-  {
-    "id": "auto-anthropic-com-previewing-the-model-hardware-standard",
-    "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
-    "originalTitle": "Previewing the Model Hardware Standard",
-    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-    "source": "anthropic.com",
-    "tag": "Claude Code",
-    "type": "自动发布",
-    "score": 116,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
-    "audience": [
-      "开发者",
-      "研发团队负责人",
-      "AI 编程工具用户"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Previewing the Model Hardware Standard。来源：Anthropic News。已自动改写为中文标题和中文判断。"
-      ]
-    ]
   }
 ];
