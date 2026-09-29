@@ -50,6 +50,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agen",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "How we found 24 Android vulnerabilities using our open source AI security agent",
+    "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：How we found 24 Android vulnerabilities using our open source AI security agent。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
     "title": "github.blog 发布创意工作流更新，设计和内容团队可关注",
     "originalTitle": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
@@ -146,31 +171,6 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Rendering huge pull requests in the GitHub Copilot app。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-migrating-the-github-copilot-runtime-to-rust-using-copilot",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-    "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Migrating the GitHub Copilot runtime to Rust, using Copilot。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
