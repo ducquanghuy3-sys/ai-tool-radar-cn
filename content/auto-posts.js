@@ -150,10 +150,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-rendering-huge-pull-requests-in-the-github-copilot-app",
+    "id": "auto-github-blog-migrating-the-github-copilot-runtime-to-rust-using-copilot",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Rendering huge pull requests in the GitHub Copilot app",
-    "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+    "originalTitle": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+    "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -170,7 +170,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Rendering huge pull requests in the GitHub Copilot app。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Migrating the GitHub Copilot runtime to Rust, using Copilot。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
