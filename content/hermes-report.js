@@ -1,10 +1,11 @@
 window.HERMES_REPORT = {
   "agent": "Hermes",
-  "ranAt": "2026-10-01T07:00:29.376Z",
+  "ranAt": "2026-10-02T06:49:30.362Z",
   "status": "ok",
-  "publishedCount": 8,
+  "publishedCount": 9,
   "reviewCount": 8,
   "publishedTitles": [
+    "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",

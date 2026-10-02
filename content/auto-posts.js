@@ -1,5 +1,30 @@
 window.AUTO_POSTS = [
   {
+    "id": "auto-anthropic-com-barclays-scales-claude-to-upgrade-operations-and-improve-client-experience",
+    "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
+    "originalTitle": "Barclays scales Claude to upgrade operations and improve client experience",
+    "url": "https://www.anthropic.com/news/barclays-scales-claude",
+    "source": "anthropic.com",
+    "tag": "Claude Code",
+    "type": "自动发布",
+    "score": 134,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
+    "audience": [
+      "开发者",
+      "研发团队负责人",
+      "AI 编程工具用户"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Barclays scales Claude to upgrade operations and improve client experience。来源：Anthropic News。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-anthropic-com-sep-23-2026-science-claude-discovers-a-novel-enzyme-system-with-crispr-like-",
     "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "originalTitle": "Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats",
@@ -125,31 +150,6 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-    "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：AI-powered fuzzing with the GitHub Security Lab Taskflow Agent。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
     "id": "auto-github-blog-migrating-the-github-copilot-runtime-to-rust-using-copilot",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "originalTitle": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
@@ -171,6 +171,31 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Migrating the GitHub Copilot runtime to Rust, using Copilot。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-github-copilot-can-now-interact-with-desktop-apps-with-computer-use",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "GitHub Copilot can now interact with desktop apps with computer use",
+    "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：GitHub Copilot can now interact with desktop apps with computer use。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
