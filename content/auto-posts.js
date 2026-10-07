@@ -1,5 +1,30 @@
 window.AUTO_POSTS = [
   {
+    "id": "auto-github-blog-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+    "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
+    "originalTitle": "Update your IDE to restore agent activity in Copilot usage metrics",
+    "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 142,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Update your IDE to restore agent activity in Copilot usage metrics。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-anthropic-com-anthropic-invests-100-million-to-train-10-000-engineers-and-tackle-the-enter",
     "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "originalTitle": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
@@ -75,6 +100,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-building-git-infrastructure-for-agent-scale-development",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Building Git infrastructure for agent-scale development",
+    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Building Git infrastructure for agent-scale development。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-reviewbench-an-open-benchmark-for-ai-code-review",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "originalTitle": "ReviewBench: An open benchmark for AI code review",
@@ -121,56 +171,6 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：How we found 24 Android vulnerabilities using our open source AI security agent。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
-    "title": "github.blog 发布创意工作流更新，设计和内容团队可关注",
-    "originalTitle": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
-    "source": "github.blog",
-    "tag": "视觉生成",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这说明 AI 工具正在进入设计、3D、音视频等专业软件，而不只是聊天窗口。中文创意团队可以开始关注连接器生态。",
-    "audience": [
-      "设计师",
-      "内容团队",
-      "3D、视频或创意工具用户"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：GitHub Copilot app for Beginners: How to build custom workflows with canvases。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-copilot-code-review-api-support-and-new-default-effort-level",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Copilot code review: API support and new default effort level",
-    "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Copilot code review: API support and new default effort level。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
