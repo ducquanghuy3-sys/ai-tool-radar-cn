@@ -1,17 +1,17 @@
 window.AUTO_POSTS = [
   {
-    "id": "auto-github-blog-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-    "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
-    "originalTitle": "Update your IDE to restore agent activity in Copilot usage metrics",
-    "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+    "id": "auto-github-blog-discover-local-models-in-github-copilot-cli",
+    "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
+    "originalTitle": "Discover local models in GitHub Copilot CLI",
+    "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
     "source": "github.blog",
-    "tag": "AI 自动化",
+    "tag": "模型发布",
     "type": "自动发布",
     "score": 142,
     "comments": 0,
     "hoursAgo": 0,
     "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "summary": "命令行 Agent 的价值不只在补全命令，而在能否进入脚本、排错和自动化流程。这篇适合做入门判断。",
     "audience": [
       "AI 工具重度用户",
       "团队流程负责人",
@@ -20,7 +20,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Update your IDE to restore agent activity in Copilot usage metrics。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Discover local models in GitHub Copilot CLI。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
@@ -100,6 +100,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-secret-protection-must-scale-with-software",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Secret protection must scale with software",
+    "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Secret protection must scale with software。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-building-git-infrastructure-for-agent-scale-development",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "originalTitle": "Building Git infrastructure for agent-scale development",
@@ -171,31 +196,6 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：How we found 24 Android vulnerabilities using our open source AI security agent。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-rendering-huge-pull-requests-in-the-github-copilot-app",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Rendering huge pull requests in the GitHub Copilot app",
-    "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Rendering huge pull requests in the GitHub Copilot app。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
