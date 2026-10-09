@@ -1,30 +1,5 @@
 window.AUTO_POSTS = [
   {
-    "id": "auto-github-blog-discover-local-models-in-github-copilot-cli",
-    "title": "GitHub Copilot CLI 新内容：适合命令行用户关注",
-    "originalTitle": "Discover local models in GitHub Copilot CLI",
-    "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
-    "source": "github.blog",
-    "tag": "模型发布",
-    "type": "自动发布",
-    "score": 142,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "命令行 Agent 的价值不只在补全命令，而在能否进入脚本、排错和自动化流程。这篇适合做入门判断。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Discover local models in GitHub Copilot CLI。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
     "id": "auto-anthropic-com-anthropic-invests-100-million-to-train-10-000-engineers-and-tackle-the-enter",
     "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "originalTitle": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
@@ -175,10 +150,35 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agen",
+    "id": "auto-github-blog-claude-haiku-5-5-in-github-copilot",
+    "title": "github.blog 发布 Claude 相关更新，重点看真实工作流影响",
+    "originalTitle": "Claude Haiku 5.5 in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+    "source": "github.blog",
+    "tag": "Claude Code",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
+    "audience": [
+      "开发者",
+      "研发团队负责人",
+      "AI 编程工具用户"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Claude Haiku 5.5 in GitHub Copilot。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-rendering-huge-pull-requests-in-the-github-copilot-app",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "How we found 24 Android vulnerabilities using our open source AI security agent",
-    "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+    "originalTitle": "Rendering huge pull requests in the GitHub Copilot app",
+    "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -195,32 +195,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：How we found 24 Android vulnerabilities using our open source AI security agent。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-anthropic-com-previewing-the-model-hardware-standard",
-    "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
-    "originalTitle": "Previewing the Model Hardware Standard",
-    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-    "source": "anthropic.com",
-    "tag": "Claude Code",
-    "type": "自动发布",
-    "score": 116,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
-    "audience": [
-      "开发者",
-      "研发团队负责人",
-      "AI 编程工具用户"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Previewing the Model Hardware Standard。来源：Anthropic News。已自动改写为中文标题和中文判断。"
+        "原题：Rendering huge pull requests in the GitHub Copilot app。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
