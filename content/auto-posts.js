@@ -175,10 +175,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-github-copilot-weekly-releases-october-5",
+    "id": "auto-github-blog-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "GitHub Copilot weekly releases — October 5",
-    "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+    "originalTitle": "New controls and chat improvements in Copilot for JetBrains",
+    "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -195,7 +195,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：GitHub Copilot weekly releases — October 5。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：New controls and chat improvements in Copilot for JetBrains。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
