@@ -1,14 +1,14 @@
 window.HERMES_REPORT = {
   "agent": "Hermes",
-  "ranAt": "2026-10-12T07:06:19.730Z",
+  "ranAt": "2026-10-13T07:30:42.278Z",
   "status": "ok",
   "publishedCount": 8,
-  "reviewCount": 8,
+  "reviewCount": 9,
   "publishedTitles": [
-    "Copilot code review: New organization billing options and controls：计费方式变化，重度用户需要重新算账",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
+    "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
@@ -22,7 +22,8 @@ window.HERMES_REPORT = {
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程"
+    "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "news.ycombinator.com 发布计费变化，AI 工具预算要重新评估"
   ],
   "stages": [
     "抓取来源",
