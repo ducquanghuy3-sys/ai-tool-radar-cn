@@ -1,6 +1,6 @@
 window.HERMES_REPORT = {
   "agent": "Hermes",
-  "ranAt": "2026-10-19T05:53:28.623Z",
+  "ranAt": "2026-10-20T05:45:04.433Z",
   "status": "ok",
   "publishedCount": 7,
   "reviewCount": 8,
@@ -11,12 +11,12 @@ window.HERMES_REPORT = {
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "github.blog 发布计费变化，AI 工具预算要重新评估"
+    "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程"
   ],
   "reviewTitles": [
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "blog.google 发布创意工作流更新，设计和内容团队可关注",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
