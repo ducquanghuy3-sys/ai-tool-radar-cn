@@ -1,13 +1,14 @@
 window.HERMES_REPORT = {
   "agent": "Hermes",
-  "ranAt": "2026-10-22T05:51:51.869Z",
+  "ranAt": "2026-10-23T05:50:21.419Z",
   "status": "ok",
-  "publishedCount": 8,
+  "publishedCount": 9,
   "reviewCount": 8,
   "publishedTitles": [
+    "github.blog 出现新的工具连接线索，值得看它怎么接入工作流",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
-    "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
