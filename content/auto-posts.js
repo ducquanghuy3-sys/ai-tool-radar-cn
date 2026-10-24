@@ -1,30 +1,5 @@
 window.AUTO_POSTS = [
   {
-    "id": "auto-github-blog-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-    "title": "github.blog 出现新的工具连接线索，值得看它怎么接入工作流",
-    "originalTitle": "Custom skills, agents, and MCP servers in usage metrics API",
-    "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-    "source": "github.blog",
-    "tag": "MCP",
-    "type": "自动发布",
-    "score": 142,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和工具连接、工作流接入有关，适合判断 AI 工具是否能进入真实生产流程。",
-    "audience": [
-      "Agent 工具开发者",
-      "自动化流程负责人",
-      "想接入内部工具的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Custom skills, agents, and MCP servers in usage metrics API。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
     "id": "auto-anthropic-com-donating-agent-skills-to-the-agentic-ai-foundation",
     "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "originalTitle": "Donating Agent Skills to the Agentic AI Foundation",
@@ -175,10 +150,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-github-copilot-in-visual-studio-september-update",
+    "id": "auto-github-blog-turn-notifications-into-code-with-github-copilot-in-teams",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "GitHub Copilot in Visual Studio — September update",
-    "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+    "originalTitle": "Turn notifications into code with GitHub Copilot in Teams",
+    "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -195,7 +170,32 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：GitHub Copilot in Visual Studio — September update。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Turn notifications into code with GitHub Copilot in Teams。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-building-git-infrastructure-for-agent-scale-development",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Building Git infrastructure for agent-scale development",
+    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Building Git infrastructure for agent-scale development。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
