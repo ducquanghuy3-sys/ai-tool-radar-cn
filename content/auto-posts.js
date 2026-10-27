@@ -150,10 +150,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-turn-notifications-into-code-with-github-copilot-in-teams",
+    "id": "auto-github-blog-github-copilot-assisted-permissions-generally-available",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Turn notifications into code with GitHub Copilot in Teams",
-    "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+    "originalTitle": "GitHub Copilot assisted permissions generally available",
+    "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -170,23 +170,23 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Turn notifications into code with GitHub Copilot in Teams。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：GitHub Copilot assisted permissions generally available。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
   {
-    "id": "auto-github-blog-building-git-infrastructure-for-agent-scale-development",
+    "id": "auto-github-blog-gpt-6-1-terra-in-github-copilot",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Building Git infrastructure for agent-scale development",
-    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+    "originalTitle": "GPT-6.1 Terra in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
     "source": "github.blog",
-    "tag": "AI 自动化",
+    "tag": "模型发布",
     "type": "自动发布",
     "score": 126,
     "comments": 0,
     "hoursAgo": 0,
     "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
     "audience": [
       "AI 工具重度用户",
       "团队流程负责人",
@@ -195,32 +195,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Building Git infrastructure for agent-scale development。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-anthropic-com-previewing-the-model-hardware-standard",
-    "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
-    "originalTitle": "Previewing the Model Hardware Standard",
-    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-    "source": "anthropic.com",
-    "tag": "Claude Code",
-    "type": "自动发布",
-    "score": 116,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
-    "audience": [
-      "开发者",
-      "研发团队负责人",
-      "AI 编程工具用户"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Previewing the Model Hardware Standard。来源：Anthropic News。已自动改写为中文标题和中文判断。"
+        "原题：GPT-6.1 Terra in GitHub Copilot。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
