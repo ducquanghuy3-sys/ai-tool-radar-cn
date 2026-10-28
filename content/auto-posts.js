@@ -1,5 +1,30 @@
 window.AUTO_POSTS = [
   {
+    "id": "auto-anthropic-com-expanding-our-partnership-with-gsa-to-bring-claude-to-all-levels-of-governme",
+    "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
+    "originalTitle": "Expanding our partnership with GSA to bring Claude to all levels of government",
+    "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+    "source": "anthropic.com",
+    "tag": "Claude Code",
+    "type": "自动发布",
+    "score": 134,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 AI 编程工具的能力边界有关，适合开发者和团队负责人评估是否更新工作流。",
+    "audience": [
+      "开发者",
+      "研发团队负责人",
+      "AI 编程工具用户"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Expanding our partnership with GSA to bring Claude to all levels of government。来源：Anthropic News。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-anthropic-com-donating-agent-skills-to-the-agentic-ai-foundation",
     "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "originalTitle": "Donating Agent Skills to the Agentic AI Foundation",
@@ -150,6 +175,31 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-github-blog-github-copilot-supports-server-to-server-authentication",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "GitHub Copilot supports server-to-server authentication",
+    "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：GitHub Copilot supports server-to-server authentication。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-github-copilot-assisted-permissions-generally-available",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "originalTitle": "GitHub Copilot assisted permissions generally available",
@@ -171,31 +221,6 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：GitHub Copilot assisted permissions generally available。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-gpt-6-1-terra-in-github-copilot",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "GPT-6.1 Terra in GitHub Copilot",
-    "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
-    "source": "github.blog",
-    "tag": "模型发布",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：GPT-6.1 Terra in GitHub Copilot。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
