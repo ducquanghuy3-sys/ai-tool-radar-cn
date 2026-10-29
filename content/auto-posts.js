@@ -1,5 +1,30 @@
 window.AUTO_POSTS = [
   {
+    "id": "auto-github-blog-octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agen",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+    "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 158,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-anthropic-com-expanding-our-partnership-with-gsa-to-bring-claude-to-all-levels-of-governme",
     "title": "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
     "originalTitle": "Expanding our partnership with GSA to bring Claude to all levels of government",
@@ -175,18 +200,18 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-github-copilot-supports-server-to-server-authentication",
+    "id": "auto-github-blog-route-and-orchestrate-models-with-github-copilot-fusion",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "GitHub Copilot supports server-to-server authentication",
-    "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+    "originalTitle": "Route and orchestrate models with GitHub Copilot Fusion",
+    "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
     "source": "github.blog",
-    "tag": "AI 自动化",
+    "tag": "模型发布",
     "type": "自动发布",
     "score": 126,
     "comments": 0,
     "hoursAgo": 0,
     "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
     "audience": [
       "AI 工具重度用户",
       "团队流程负责人",
@@ -195,32 +220,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：GitHub Copilot supports server-to-server authentication。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-github-copilot-assisted-permissions-generally-available",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "GitHub Copilot assisted permissions generally available",
-    "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：GitHub Copilot assisted permissions generally available。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Route and orchestrate models with GitHub Copilot Fusion。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
