@@ -1,9 +1,9 @@
 window.HERMES_REPORT = {
   "agent": "Hermes",
-  "ranAt": "2026-10-30T06:54:22.679Z",
+  "ranAt": "2026-10-31T06:47:52.452Z",
   "status": "ok",
   "publishedCount": 9,
-  "reviewCount": 9,
+  "reviewCount": 8,
   "publishedTitles": [
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "anthropic.com 发布 Claude 相关更新，重点看真实工作流影响",
@@ -23,8 +23,7 @@ window.HERMES_REPORT = {
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "news.ycombinator.com 发布 AI 工具更新，适合判断是否纳入日常流程"
+    "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程"
   ],
   "stages": [
     "抓取来源",
