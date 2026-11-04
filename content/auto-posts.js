@@ -175,35 +175,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-how-to-continue-a-github-copilot-app-session-in-vs-code",
+    "id": "auto-github-blog-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "How to continue a GitHub Copilot app session in VS Code",
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：How to continue a GitHub Copilot app session in VS Code。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-route-and-orchestrate-models-with-github-copilot-fusion",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Route and orchestrate models with GitHub Copilot Fusion",
-    "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+    "originalTitle": "BYOK and enterprise custom models in the Copilot usage API",
+    "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
     "source": "github.blog",
     "tag": "模型发布",
     "type": "自动发布",
@@ -220,7 +195,32 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Route and orchestrate models with GitHub Copilot Fusion。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：BYOK and enterprise custom models in the Copilot usage API。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-dependabot-version-updates-support-agent-package-manager",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Dependabot version updates support Agent Package Manager",
+    "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Dependabot version updates support Agent Package Manager。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
