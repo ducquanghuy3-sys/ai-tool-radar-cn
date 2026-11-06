@@ -150,10 +150,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-how-3-java-champions-are-using-github-copilot-for-increased-productivity",
+    "id": "auto-github-blog-building-git-infrastructure-for-agent-scale-development",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+    "originalTitle": "Building Git infrastructure for agent-scale development",
+    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -170,19 +170,19 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：How 3 Java Champions are using GitHub Copilot for increased productivity。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Building Git infrastructure for agent-scale development。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
   {
-    "id": "auto-github-blog-github-copilot-is-now-available-in-xcode-8217-s-coding-assistant",
+    "id": "auto-github-blog-developer-skills",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "GitHub Copilot is now available in Xcode&#8217;s coding assistant",
-    "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+    "originalTitle": "Developer skills",
+    "url": "https://github.blog/developer-skills/",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
-    "score": 126,
+    "score": 108,
     "comments": 0,
     "hoursAgo": 0,
     "editor": "自动中文编辑",
@@ -195,23 +195,23 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：GitHub Copilot is now available in Xcode&#8217;s coding assistant。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Developer skills。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
   {
-    "id": "auto-github-blog-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+    "id": "auto-github-blog-application-development",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "BYOK and enterprise custom models in the Copilot usage API",
-    "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+    "originalTitle": "Application development",
+    "url": "https://github.blog/developer-skills/application-development/",
     "source": "github.blog",
-    "tag": "模型发布",
+    "tag": "AI 自动化",
     "type": "自动发布",
-    "score": 126,
+    "score": 108,
     "comments": 0,
     "hoursAgo": 0,
     "editor": "自动中文编辑",
-    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
     "audience": [
       "AI 工具重度用户",
       "团队流程负责人",
@@ -220,7 +220,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：BYOK and enterprise custom models in the Copilot usage API。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Application development。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
