@@ -1,5 +1,30 @@
 window.AUTO_POSTS = [
   {
+    "id": "auto-github-blog-beyond-code-generation-a-developer-8217-s-guide-to-agentic-engineering",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Beyond code generation: A developer&#8217;s guide to agentic engineering",
+    "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 158,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Beyond code generation: A developer&#8217;s guide to agentic engineering。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agen",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "originalTitle": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
@@ -21,6 +46,31 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+    "title": "GitHub Copilot Agent 更新：云端执行速度和工作流继续优化",
+    "originalTitle": "Copilot impact dashboard adds chat and VS Code agent usage",
+    "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+    "source": "github.blog",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 142,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Copilot impact dashboard adds chat and VS Code agent usage。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
@@ -125,10 +175,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-the-bridge-to-agent-scale-git-infrastructure",
+    "id": "auto-github-blog-copilot-code-review-api-management-and-review-overview-updates",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "The bridge to agent-scale Git infrastructure",
-    "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+    "originalTitle": "Copilot code review: API management and review overview updates",
+    "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -145,15 +195,15 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：The bridge to agent-scale Git infrastructure。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Copilot code review: API management and review overview updates。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
   {
-    "id": "auto-github-blog-building-git-infrastructure-for-agent-scale-development",
+    "id": "auto-github-blog-github-copilot-weekly-releases-november-2",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Building Git infrastructure for agent-scale development",
-    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+    "originalTitle": "GitHub Copilot weekly releases — November 2",
+    "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -170,57 +220,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Building Git infrastructure for agent-scale development。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-developer-skills",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Developer skills",
-    "url": "https://github.blog/developer-skills/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 108,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Developer skills。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-application-development",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Application development",
-    "url": "https://github.blog/developer-skills/application-development/",
-    "source": "github.blog",
-    "tag": "AI 自动化",
-    "type": "自动发布",
-    "score": 108,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Application development。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：GitHub Copilot weekly releases — November 2。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
