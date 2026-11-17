@@ -175,35 +175,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+    "id": "auto-github-blog-github-copilot-weekly-releases-november-9",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Upcoming deprecation of selected GitHub Copilot models in December",
-    "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-    "source": "github.blog",
-    "tag": "模型发布",
-    "type": "自动发布",
-    "score": 126,
-    "comments": 0,
-    "hoursAgo": 0,
-    "editor": "自动中文编辑",
-    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
-    "audience": [
-      "AI 工具重度用户",
-      "团队流程负责人",
-      "需要跟踪一手变化的人"
-    ],
-    "commentsSample": [
-      [
-        "自动中文编辑",
-        "原题：Upcoming deprecation of selected GitHub Copilot models in December。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
-      ]
-    ]
-  },
-  {
-    "id": "auto-github-blog-github-enterprise-server-support-in-the-github-copilot-app",
-    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "GitHub Enterprise Server support in the GitHub Copilot app",
-    "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+    "originalTitle": "GitHub Copilot weekly releases — November 9",
+    "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -220,7 +195,32 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：GitHub Enterprise Server support in the GitHub Copilot app。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：GitHub Copilot weekly releases — November 9。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-github-blog-github-copilot-models-deprecated-on-november-16-2026",
+    "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "GitHub Copilot models deprecated on November 16, 2026",
+    "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+    "source": "github.blog",
+    "tag": "模型发布",
+    "type": "自动发布",
+    "score": 126,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：GitHub Copilot models deprecated on November 16, 2026。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
