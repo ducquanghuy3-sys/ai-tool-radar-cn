@@ -175,10 +175,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-github-copilot-weekly-releases-november-9",
+    "id": "auto-github-blog-building-the-agent-host-protocol-for-sessions-that-continue-across-devices",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "GitHub Copilot weekly releases — November 9",
-    "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+    "originalTitle": "Building the Agent Host Protocol for sessions that continue across devices",
+    "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -195,15 +195,15 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：GitHub Copilot weekly releases — November 9。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Building the Agent Host Protocol for sessions that continue across devices。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
   {
-    "id": "auto-github-blog-github-copilot-models-deprecated-on-november-16-2026",
+    "id": "auto-github-blog-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "GitHub Copilot models deprecated on November 16, 2026",
-    "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+    "originalTitle": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+    "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
     "source": "github.blog",
     "tag": "模型发布",
     "type": "自动发布",
@@ -220,7 +220,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：GitHub Copilot models deprecated on November 16, 2026。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：GitHub Copilot Fusion updates: more availability, benchmarks, and models。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
