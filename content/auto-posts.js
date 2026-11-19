@@ -200,18 +200,18 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+    "id": "auto-github-blog-connect-supabase-box-calendly-and-more-to-copilot",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-    "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+    "originalTitle": "Connect Supabase, Box, Calendly, and more to Copilot",
+    "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
     "source": "github.blog",
-    "tag": "模型发布",
+    "tag": "AI 自动化",
     "type": "自动发布",
     "score": 126,
     "comments": 0,
     "hoursAgo": 0,
     "editor": "自动中文编辑",
-    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
     "audience": [
       "AI 工具重度用户",
       "团队流程负责人",
@@ -220,7 +220,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：GitHub Copilot Fusion updates: more availability, benchmarks, and models。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Connect Supabase, Box, Calendly, and more to Copilot。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
