@@ -200,10 +200,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-connect-supabase-box-calendly-and-more-to-copilot",
+    "id": "auto-github-blog-automate-repository-tasks-with-github-agentic-workflows",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Connect Supabase, Box, Calendly, and more to Copilot",
-    "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
+    "originalTitle": "Automate repository tasks with GitHub Agentic Workflows",
+    "url": "https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -220,7 +220,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Connect Supabase, Box, Calendly, and more to Copilot。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：Automate repository tasks with GitHub Agentic Workflows。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
