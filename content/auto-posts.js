@@ -50,6 +50,56 @@ window.AUTO_POSTS = [
     ]
   },
   {
+    "id": "auto-openai-com-advancing-computer-use-agents-for-healthcare-teams-product-nov-16-2026",
+    "title": "openai.com 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Advancing computer-use agents for healthcare teams Product Nov 16, 2026",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+    "source": "openai.com",
+    "tag": "AI 自动化",
+    "type": "自动发布",
+    "score": 150,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Advancing computer-use agents for healthcare teams Product Nov 16, 2026。来源：OpenAI Product。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-openai-com-gpt-6-cyber-advancing-the-frontier-of-aligned-cybersecurity-agents-product-nov-",
+    "title": "openai.com 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents Product Nov 5, 2026",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber/",
+    "source": "openai.com",
+    "tag": "模型发布",
+    "type": "自动发布",
+    "score": 150,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents Product Nov 5, 2026。来源：OpenAI Product。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
     "id": "auto-github-blog-build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "originalTitle": "Build once, run on any agent: A practical guide to agent skills",
@@ -71,6 +121,81 @@ window.AUTO_POSTS = [
       [
         "自动中文编辑",
         "原题：Build once, run on any agent: A practical guide to agent skills。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-openai-com-introducing-chatgpt-for-sales-product-nov-17-2026",
+    "title": "openai.com 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Introducing ChatGPT for Sales Product Nov 17, 2026",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales/",
+    "source": "openai.com",
+    "tag": "模型发布",
+    "type": "自动发布",
+    "score": 134,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Introducing ChatGPT for Sales Product Nov 17, 2026。来源：OpenAI Product。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-openai-com-introducing-chatgpt-wallet-product-nov-13-2026",
+    "title": "openai.com 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Introducing ChatGPT Wallet Product Nov 13, 2026",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet/",
+    "source": "openai.com",
+    "tag": "模型发布",
+    "type": "自动发布",
+    "score": 134,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Introducing ChatGPT Wallet Product Nov 13, 2026。来源：OpenAI Product。已自动改写为中文标题和中文判断。"
+      ]
+    ]
+  },
+  {
+    "id": "auto-openai-com-introducing-businesses-in-chatgpt-product-nov-10-2026",
+    "title": "openai.com 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "originalTitle": "Introducing Businesses in ChatGPT Product Nov 10, 2026",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+    "source": "openai.com",
+    "tag": "模型发布",
+    "type": "自动发布",
+    "score": 134,
+    "comments": 0,
+    "hoursAgo": 0,
+    "editor": "自动中文编辑",
+    "summary": "这条涉及模型能力变化，重点看它会影响哪些具体任务，而不是只看参数和榜单。",
+    "audience": [
+      "AI 工具重度用户",
+      "团队流程负责人",
+      "需要跟踪一手变化的人"
+    ],
+    "commentsSample": [
+      [
+        "自动中文编辑",
+        "原题：Introducing Businesses in ChatGPT Product Nov 10, 2026。来源：OpenAI Product。已自动改写为中文标题和中文判断。"
       ]
     ]
   },
@@ -200,10 +325,10 @@ window.AUTO_POSTS = [
     ]
   },
   {
-    "id": "auto-github-blog-automate-repository-tasks-with-github-agentic-workflows",
+    "id": "auto-github-blog-the-bridge-to-agent-scale-git-infrastructure",
     "title": "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "originalTitle": "Automate repository tasks with GitHub Agentic Workflows",
-    "url": "https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/",
+    "originalTitle": "The bridge to agent-scale Git infrastructure",
+    "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
     "source": "github.blog",
     "tag": "AI 自动化",
     "type": "自动发布",
@@ -220,7 +345,7 @@ window.AUTO_POSTS = [
     "commentsSample": [
       [
         "自动中文编辑",
-        "原题：Automate repository tasks with GitHub Agentic Workflows。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
+        "原题：The bridge to agent-scale Git infrastructure。来源：GitHub Blog。已自动改写为中文标题和中文判断。"
       ]
     ]
   }
