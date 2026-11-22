@@ -1,6 +1,6 @@
 window.HERMES_REPORT = {
   "agent": "Hermes",
-  "ranAt": "2026-11-21T08:06:09.638Z",
+  "ranAt": "2026-11-22T07:52:13.498Z",
   "status": "ok",
   "publishedCount": 14,
   "reviewCount": 8,
