@@ -94,5 +94,17 @@
     "chineseTitle": "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "chineseSummary": "这条和 Agent、自动化或团队流程有关，适合判断能不能在一周内试用或改造成自己的流程。",
     "reason": "需要人工判断是否适合中文读者"
+  },
+  {
+    "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+    "url": "https://news.ycombinator.com/item?id=50634426",
+    "source": "Hacker News",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "score": 96,
+    "defaultTag": "Agents",
+    "tag": "MCP",
+    "chineseTitle": "news.ycombinator.com 出现新的工具连接线索，值得看它怎么接入工作流",
+    "chineseSummary": "这条和工具连接、工作流接入有关，适合判断 AI 工具是否能进入真实生产流程。",
+    "reason": "需要人工判断是否适合中文读者"
   }
 ]
