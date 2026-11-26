@@ -1,6 +1,6 @@
 window.HERMES_REPORT = {
   "agent": "Hermes",
-  "ranAt": "2026-11-25T09:40:39.585Z",
+  "ranAt": "2026-11-26T09:15:27.148Z",
   "status": "ok",
   "publishedCount": 14,
   "reviewCount": 9,
@@ -8,7 +8,7 @@ window.HERMES_REPORT = {
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "openai.com 发布 AI 工具更新，适合判断是否纳入日常流程",
     "openai.com 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
+    "Copilot code review billing will default to the organization：计费方式变化，重度用户需要重新算账",
     "openai.com 发布 AI 工具更新，适合判断是否纳入日常流程",
     "openai.com 发布 AI 工具更新，适合判断是否纳入日常流程",
     "openai.com 发布 AI 工具更新，适合判断是否纳入日常流程",
@@ -29,7 +29,7 @@ window.HERMES_REPORT = {
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "news.ycombinator.com 出现新的工具连接线索，值得看它怎么接入工作流"
+    "news.ycombinator.com 发布 AI 工具更新，适合判断是否纳入日常流程"
   ],
   "stages": [
     "抓取来源",
