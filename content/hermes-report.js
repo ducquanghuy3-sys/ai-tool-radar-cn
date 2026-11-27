@@ -1,9 +1,9 @@
 window.HERMES_REPORT = {
   "agent": "Hermes",
-  "ranAt": "2026-11-26T09:15:27.148Z",
+  "ranAt": "2026-11-27T09:31:02.972Z",
   "status": "ok",
   "publishedCount": 14,
-  "reviewCount": 9,
+  "reviewCount": 8,
   "publishedTitles": [
     "github.blog 发布 AI 工具更新，适合判断是否纳入日常流程",
     "openai.com 发布 AI 工具更新，适合判断是否纳入日常流程",
@@ -28,8 +28,7 @@ window.HERMES_REPORT = {
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
     "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程",
-    "news.ycombinator.com 发布 AI 工具更新，适合判断是否纳入日常流程"
+    "blog.google 发布 AI 工具更新，适合判断是否纳入日常流程"
   ],
   "stages": [
     "抓取来源",
